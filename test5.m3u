@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="awani" tvg-name="Astro Awani" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/awani.png",Astro Awani
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=null&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://test-mpd.iepms2nizam.workers.dev/dash2.mpd?username=test_user&password=test123&channel=awani
