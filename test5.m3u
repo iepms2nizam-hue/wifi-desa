@@ -1,8 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="awani" tvg-name="AWANI" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/awani.png",AWANI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
-https://test-mpd.iepms2nizam.workers.dev/dash2.mpd?username=test_user&password=test123&channel=awani
