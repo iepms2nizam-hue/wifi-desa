@@ -8,4 +8,5 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
 #EXTVLCOPT:http-referrer=https://sooka.my/
 #EXTVLCOPT:http-origin=https://sooka.my
-https://mpd-proxy.bubulopdudu.workers.dev/?channel=awani
+
+https://mpd-proxy.bubulopdudu.workers.dev/?channel=awani|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjY2NDc5MzAsImlzcyI6IlZSIiwiZXhwIjoxNzY2NzAxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZmRhYzFlOTgtYjlkNS00MGM5LWJiMzYtZDQzNjdmMjg3NGU2IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTAyNSJ9.bZjbqH08rDen0u99gGzhwjoQbdwEi0dwO8uxAilhEoE
