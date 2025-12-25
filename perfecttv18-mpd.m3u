@@ -1,6 +1,5 @@
 #EXTM3U
 
-#EXTM3U
 #EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/awani.png",Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
