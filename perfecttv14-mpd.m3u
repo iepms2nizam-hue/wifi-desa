@@ -7,4 +7,4 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
 #EXTVLCOPT:http-referrer=https://sooka.my/
 #EXTVLCOPT:http-origin=https://sooka.my
-https://mpd-test.bubulopdudu.workers.dev/?channel=awani-astro
+https://mpd-test.bubulopdudu.workers.dev/mpd?channel=awani-astro
