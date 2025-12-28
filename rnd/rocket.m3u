@@ -1,14 +1,4 @@
-#EXTINF:-1 group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" group-title="‼️‼️ INFO PENGGUNA ‼️‼️" tvg-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg", 👤 - Owner Ott :- @NRTHWT
-https://github.com/akkradet/IPTV-THAI/raw/refs/heads/master/nosignal.m3u8
-
-#EXTINF:-1 group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" group-title="‼️‼️ INFO PENGGUNA ‼️‼️" tvg-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg", 🆔 - Tahun-Baru
-https://github.com/akkradet/IPTV-THAI/raw/refs/heads/master/nosignal.m3u8
-
-#EXTINF:-1 group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" group-title="‼️‼️ INFO PENGGUNA ‼️‼️" tvg-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg", 📅 - Tarikh Tamat 1 January 2026
-https://github.com/akkradet/IPTV-THAI/raw/refs/heads/master/nosignal.m3u8
-
-#EXTINF:-1 group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" group-title="‼️‼️ INFO PENGGUNA ‼️‼️" tvg-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg", 👤 - Peranti Terdaftar 185/2026
-https://github.com/akkradet/IPTV-THAI/raw/refs/heads/master/nosignal.m3u8
+#EXTM3U
 
 #EXTINF:-1 group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" group-title="‼️‼️ INFO PENGGUNA ‼️‼️" tvg-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg", 🎬 - PlaylistType :- all
 https://github.com/akkradet/IPTV-THAI/raw/refs/heads/master/nosignal.m3u8 
