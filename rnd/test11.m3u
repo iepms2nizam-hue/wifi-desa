@@ -35,3 +35,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 #EXTINF:-1 tvg-id="718.astro" tvg-name="MTV HD" group-title="Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MTV_Live.png" ch-number="718",718 MTV Live
 #EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
+
+
+#EXTINF:-1 tvg-id="203" group-title="Sports | AstroGO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png",Hub Sports 3 HD Vpn Singapore
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
+https://sh-bks400-11.starhubgo.com:443/bpk-token/2ab@d31etl24ptmobum0zf5qdxjgxii5gz2cdj33a3da/bpk-tv/HubSports3HDNEW/output/manifest.mpd
+?bkm-query
+
+
+
+
