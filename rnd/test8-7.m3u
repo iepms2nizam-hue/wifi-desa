@@ -1,11 +1,41 @@
 #EXTM3U
 
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Bld//MSTW6JK/0xMndaEbQ","kid":"m/61BoclYX261jOEc9ptEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="833.astro" tvg-name="Premier Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Sports | AstroGO" ch-number="833",833 Premier Sports ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+
+
+===malaysia ============
+
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HuOyUiJ8XC7JN4yDPS4U/w","kid":"6tAzXWBAEiVyem1THpwnEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="802.astro" group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" tvg-name="ARENA 2 HD" group-title="Sports | AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" ch-number="802",802 Astro Arena 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" group-title="Malaysia" tvg-logo="https://telegra.ph/file/071ec21b298280a2e418c.png" tvg-id="135.astro",TRAVEL & TASTE
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jkIAv1xNUj/wC/0XPQIWAg","kid":"eExgN+WIjoQQbkEFn+KxEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="AstroRania" tvg-name="RANIA HD" group-title="Malaysia" tvg-logo="https://i.imgur.com/6XVguwv.png" ch-number="112",112 Astro Rania ᶠᴴᴰ
 #EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" group-title="Malaysia" tvg-logo="https://i.ytimg.com/vi/KPpA0LTosX4/maxresdefault.jpg" tvg-id="OhMyCeria",OH MY CERIA
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -158,6 +188,4 @@ SUKAN
 #EXTINF:-1 tvg-id="410.astro" tvg-name="ASTRO PREMIER" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png" group-title="Movies" ch-number="410",410 Astro Premier
 #EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
-
-
 
