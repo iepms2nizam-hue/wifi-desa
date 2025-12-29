@@ -27,4 +27,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Malaysia" tvg-logo="https://i.imgur.com/Rr1E0Ym.png" ch-number="105",105 Astro Prima FHD Server 1
 https://raw.githubusercontent.com/mdferin/mpd/refs/heads/main/Rocket/default_primary.mpd
 
+#EXTHTTP:{"X-Token":"81f297acb68b574f9c2982ad09b9711f62706a692b6f442b5a4c517838355774573647434c346c564b77466964457159586e3951586875532f77633d"} 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="Malaysia;Movies" tvg-logo="https://i.imgur.com/FQ6OzQz.png" group-logo="https://nanopi.rocket-tv.online/Gambar/onm.jpg" ch-number="108",108 Astro Citra FHD Server 1
+https://raw.githubusercontent.com/mdferin/mpd/refs/heads/main/Rocket/default_primary.mpd
 
