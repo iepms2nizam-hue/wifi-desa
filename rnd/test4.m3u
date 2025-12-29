@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" group-title="‼️‼️ INFO PENGGUNA ‼️‼️" tvg-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg", 🎬 - PlaylistType :- all
-https://github.com/akkradet/IPTV-THAI/raw/refs/heads/master/nosignal.m3u8 
+
 #KODIPROP:inputstream.adaptive.license_typ#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
