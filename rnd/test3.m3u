@@ -1,0 +1,107 @@
+#EXTM3U
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1k1XhXu0bshnqFofVXPuw", "kid":"pkLdS/PqeC4ZICre+2BLEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="321.astro" tvg-name="CCM" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="Chinese;Movies" ch-number="321",321 CCM
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODUxNzkzNDIiLCJyZWZyZXNoX3Rva2VuIjoiT0FjVXViWFRrM3JWaFQra3VKY25VTVwvSXlhWkdJcEdSbmJ6M0tEbUlcLzhaOVNtU2gzQ1Fhdk15WUdpb3FwRFAwbFBEOHBVUjRQYWlUNzdDYnVIMytzVGtkZVwvYjJQb0VVZ0RqWXEzUFwvNWZyNzhzTGs1dUt5anpURmhjVXdFN3JVVmdYOUZSc2srMnRsdmpqR3g3V2ZpQWJtVkdqdStIeWJzNWhIWmkzaUFtbyt1QUVjS1JoaFB2Kys1d0E0RFJ3XC9MSkRzM1wvMm02ME9ld0k2S055VjlKK1ZjMWdXSmJXYXFPNXhkTFFneHF3Z0xXbHJxSHlNOWRmTHZZdDVFY0VIRENCTkV4Y2ZPcGlNUndwczBhcVVuZTd0bEtTN3NNTDhHWE5GR0VIZTZjaDJicVBuU0dLVkgyT09VSHlGZGhYWlJFeWJzeStIbnYyNitabVhHdzhrTE1CbDN0RzlNaHZ1aUdqeVhVUU15VzE1TFRnWXVkaGJ2MkludkhqRFo0ZUNtIn0=
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" ch-number="309",309 Celestial Classic Movies
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODUzNDIwOTEiLCJyZWZyZXNoX3Rva2VuIjoiMnh6Mm1IUUtvZzBWTUNnNEdFM2c4TUFYSnBzVUorQWdxMHZXcnVQa1NQUDJ6UHRcLzBWckNwWmx0VnNVWDFBM1p3S2NWXC9idHVGbzZlcFVlSVAyb21PRCtqV3ZEOSttZDNUMlZQNDl4UTh4MjBveEpieEc4am84WHNFNjcyTHBEQTFrOWJkRTRhK1JHd0pGcnlid3ZlYmhjZ0FwN1k1aU93WTF6UUNJcVZSeG10SjZnT0M2dlV2d1ZQV3hUWDhBazRES0pjWUJzZ1JYQldtQUlYSzlLS0NNREVzMnlZbGFNNThjT0V5XC8rZ1laRFdQT1BwcmFrQmEyQ3g5bmJWZnNNeUxBVGdFeU9XWGt6SHZYXC9zZ0tCcWFSSEZlYkNDRW03ekhPdHUxUUhcL2dnOTJHZHZETmc5aFBpZTBYUXNSTXpZRHBGXC9HaTFrSGVvMDNwemdsbWJOa3VjejVTU1oyczFnNDZFaGZqZzkybkE2SjJwN2Ftb0RjelNlWXpTVjlXNFVDIn0=
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hCVpDEhE+7AbXq5wa8L3xg","kid":"2xozj3HUAYb1mXywhbs/EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="335.astro" tvg-name="CCTV4 HD" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" ch-number="335",335 CCTV4
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDg5MjEzNTAiLCJyZWZyZXNoX3Rva2VuIjoiWjdQaGRPeDI2KzVuS1VpV0t0eXBwem5TMFUreGZNM01OSGtWOFI2c0Z3VlhIeFNSYmNvYllwSHREbjU0c0ZPejRQTTBKTmNZalp1SnRjUndsakdtUnB4UmxyTm9EdHhaRzFZYWxndDZKUWI1TUc5NUd4eHJlbjFoYzBnNGFPS0YweE9lSTJUaFI0ckFGMUcybDNGMmtNdTRtZ1ZJUUhvalFES3ZlWkJEdlI0SlwvQ3JYYjE4N2xpME9iMllqaGlcL3JsMHBpYnVoTWxLK3pOVG1jRXFlclg0MXlVVjhTUWFCOEJlZk5YV2RYUlROblRZak9uMjJcL3BmdlpwVWtkd3FVSGhjaXYxWmNnY2RxUU5Ma1JlUDZZK0FwbWZwWlVDTDhkOVZVeFR6R3kzUUpoblwvQlpYMVhHSXdMYjZLR3BWR3R0ZGNFZ0haZGE0V0lSbGxJcUNnNHVaSElSbUJJRVM0UDRzQmI3MG5iZ3E5d05jK0NBMW5pcHJPU1JQT1crdmZGbiJ9
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eaBEsw1k9cN+bUXVA8uygA","kid":"2xNDVFriXd7PjfpEIvNUEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="517.astro" tvg-name="BLOOMBERG TV HD" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png" ch-number="517",517 Bloomberg
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzgwOTI2NzEiLCJyZWZyZXNoX3Rva2VuIjoiZ05VUXRXRnRQemVoT3B6VkJ1YVRjdzhPU2Jzb0JSemRuXC9YaVdJbUZxOHVNMGNyQmFJVnRBYk5xYnlyUXptMitWZU9MVmk4MytMazE2MWFyTUxPTTJFc0NycXpmbTFqcEZ5YzBiWGZEUjdTK2hRMmZ4amEzckRwVjFRQnI2WFZENFhNV2dMUDhadTV3aW16ZEZrOEF1dEtnWDk2VWNSeEpGTkw5ZU85Q3Jta2JLK0dYaExEXC9Obm9RVlwvQkFLTFdtZG1memFieDRFaDRkbjJ5c0hERUIxYWxOeEg1SFJhakk0NmRLMnBJXC9rTVhaSXMxTklONGFjVThlVG02OWJjWkVnWHpsUDNZWEsyTWQyU3g0RnRiTVJzb29GZ1RMbUp3dWhPWjVlYmpmN3ZrWTZqOUxPNDRvVDNzQmhVQ25wbXVoalF6bVwvZVwvRHV1ME9QZWZwYW4zcmZGZ2NQeE1nUzgrdFNyMDRNUlVDZG1CcFJKMXY3alwvM0tJbXBMSkhuMzlHaSJ9
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sNrddLcT5LKf0n4UfK5xMw","kid":"S+9/wby2vX8ofe+UDjjLEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="514.astro" tvg-name="SKY NEWS HD" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png" ch-number="514",514 Sky News
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODkzNDIxNzUiLCJyZWZyZXNoX3Rva2VuIjoiM2p3WnExOGg4bW5FQTNOTTlMSGZGendKdTdBSTFsc3BzRFg4dk16SGtSc0pja3BqR2pkMytsSDl6NFJHeFIxaDNPVnlLandBWnRvbURyRUROZ1VXNzlRZXB2d1hmUFdQTFdcL1IyeUtBeUpSRWVJc1BnYUxDQVk3UnJNZFJjUWdVWUloS3JkdTBsSXM2UFo0WkJCY2R1UVYzSFBYMzVZV29cL0pROG1kTXFlQ2UxWTVQUm9NXC91OHVNMWhcL2Z1aGk1eUJFU1wvMDd0RlZPeUFpcXJXYUxBZXN1SGxqMk5IWHFhSFdcL1VxNDBvTjFcL2V3MlwvRkRpNkhRaTRBWUEwSFNyRWExZndORWZWcWFmbTdVWkJENmVOM0NaWENRdXRJT0Uzc2tzalRDNVZnYit3eU9zZ0J0bHZQR0g3clFhQXRPcTJnMnE4UlU3QVNhR1ZkOFp2MnB2bGpSSElkaGhwTUFqZDVGc3pHazhGWEFPZWhMbXk1ZFY4Q3hVamdVSWNVR1hLQ1IifQ==
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="515.astro" tvg-name="CNA HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png" group-title="News" ch-number="515",515 CNA
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzIwODE2NDciLCJyZWZyZXNoX3Rva2VuIjoicTdDdFYxTDg3ejJhUHl1dUc0WGJoRHI5NVhhWDY2bkhxV004bHpyWWs0bkpTMDdJd0JMUHFDemQwUHVzVG8xWHRweXRhd2VEVURnZXVOMUExTjhSTGNzZFwvM2VNbUhTOWE5blFXU0JDdzB1eCtNbW5NbXRaR1pZa215ZFhsT3VYXC9VdjJRaFpTSmQzR0RteFE3b3JjMWVXN1g4bXNOM2N0MlYxRkgrVmlTQU0rdXcyK2RzbnlvckRnNStDWkJINU03R2VxUnBVTU90RCsySkpTSm5jbHFrdUxIZWdXOGNIWWpGdktXcHROK3JidHFmTG9hbU13MjNMOXVzNHJ4TUZkTHpERDBVaEYyM2xReERJNzlNYWFzQm1YWGxOMjBmejRIQ2xtdEplYXI0WWVwSTk4ZE8xc2pQWU5yRCtFcU01bFwvOGxjaHZcLzExOUZXMEJXMUlCNFVlWkJcL3dPTXJpWkl4aGl5Tjh5WVdTOGhzMGFiY3QwZGZsVXJvOE1cL3VUSGR1In0=
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YCgnqHDUmGLRoj8pEpV7TA","kid":"w6OPE0BTF1mhype8XYDIEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="516.astro" tvg-name="CNBC HD" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png" ch-number="516",516 CNBC Asia
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDIwNTgzNjEiLCJyZWZyZXNoX3Rva2VuIjoicE1kVjVqRkR6YlY4VXFEMDNKQ3JlOERXRCs5Q0NUWlJqWmwxZVZQYW8yNG9FSW1iMjlxZzEwMUo4eUJzY2V5SUNqZmNuUFBPb25mT2JoYlRrd1hXMHdrbHlJVDBvcWFWMXpcL2NQbVNjOXl3RGpEbWltSmtzRTRVaDlmSmp0TFhuWHFwamFySVVDRlVhU0VJY1p2K1N4WXVMaHNyZlY2WitzZWdGdzBFNjNTZ2hadlBUaWhpcXpzN3dOMmdSaVlFaVIxWk52TzJ4clZZTGdEQllJZUZPZ3JZK0cwdkJEVVo1T0ZNR0FrZWVNaVNNWG14OW9aa2h4VFA4T3QrekdMbThxZkxCWW9oaWtLbFwvTHpyOG9weHlONXB5WXNyUVNPVkt5aDR2cGVvdDhrR3ZDQlRIYmZBZlRrelpCNU5Ea1VcL1lLSzg3aTFTdVVDOVVKTzNaSWhPNERBMkNHQ1UzQUJyOXkwZ250ZzNlXC9FTGN6M2dJdWwxMFBSWGoraklQaFRZWSJ9
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mb18H/I5EkS05A4IvvEQnQ","kid":"ap/ML5QljO4PIQhofELnEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="518.astro" tvg-name="ABC AUSTRALIA" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/461_144.png" ch-number="518",518 ABC Australia
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzg0MjcwMTYiLCJyZWZyZXNoX3Rva2VuIjoiUGd4UzMwaTBnT2dYdEM5QTZMdzlvNUxVajM2VFVabzlRYytqa1cyTGdPS3hONnhhK2NodUxEblFtdHc0VjVKWmNmczhRVUdzNTBmN2pZME80NktBdncxUWt0N3RHSFc4QUlGTUlIS0I3VTRZV3RicCtvckpYN1p0ZlJRRW1JM256cFdVa0pNT1VrbGZKXC81SXFhT0tIQkJoVTZQVUFLVDdHTWhSTzZSMHI2NWtsdWNnRncycEpjVUFuOFlGbmNsSEttWXJZWElCOXFqQzBHNTh4YWhWa1ZWd0lOYWlqTjZOajdIZWNQZFg4M1JDYUVPQklVWXlib1o5Mkg3bitoUnozZGowSENWNzVORFYrc1A4eW5FYnZzR2I3eFhoT0tTVWRFczVBWG9pODZDNkFRWXBOaFdnK1QrdnQxbTJzWDNmTmtpeStXMVR4dUowY2J3NW9HOUZtQ0hjM1h5empwSkN1V2V1RUNESUwzcUswaWhHRUhtN0hLVEVwXC9ZT2p0Y1MifQ==
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E7uCnOSDbM90BxxFmTl4xQ", "kid":"ft871ZDPM39yGi5b7DYVEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="521.astro" tvg-name="DW HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DW_v1.png" group-title="News" ch-number="521",521 DW
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTc1NjQzMDgiLCJyZWZyZXNoX3Rva2VuIjoiZU1Ld3JhUytVU29hSCt2OTFQKzh1QlJIcXkyZWs2YnpzM0w2Yjh3M1JmNFpBd2p0YWdjeHJQMVZYK3V1Y3RuWkZUclg3WWgxSk9SWWo4a3dHVWFucXM1U1B0dGpEcEVtNnNaZDdkb3VCdHl3cGZRUk5NQ3JZc0dmcnpJK0xvblcxZmV0bXk2M0Z4eHo3WWo4VVpoYVUycTBFRG9EdmdsdjMzanZJeVlMcmxCcFdkTVYzZW00M2w2T2RVVzRRSWlTYUhJdmllZE5KZDhcLzFMSnYxM0RPU2lmSHVzN0NzU2cyZjZORUh1VkcxZTRRRjZvMXgxUzVWZW54aWJnbG5uUkFFMDVTTmVQbXlURm1jb0xWbEhtQzhJTkhuQ3NJbFoxeHJraE1wOHRVNFRSREFEZGs5T0dNSjhzUUhuNWtJeTM3MU9pdmVxOURFZlwvRThXNEV1ODZtdmZIT1VLQjFYSXU1Q0pcLytkMjZqQnZlaUJiS01oZTNpZFRabUhrblwvalhxcCJ9
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dtQJ/8TqoBLGHYwxvRPfXQ", "kid":"Owwc69DEUY1gD1LDVO0ZEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="522.astro" tvg-name="FRANCE24 HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/France24_v1.png" group-title="News" ch-number="522",522 FRANCE24
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzAyNjk4NTEiLCJyZWZyZXNoX3Rva2VuIjoicnJTZEloaHZhOHEydWdWQmd2YVN3S3BOdVBEN1BrU2kwRE5Rd1wvZUtrU3VlZ0NBdVV3dThscUpNYjlYc0tpMXdBcTFGXC9TQm9NTXBzckw4c2JkNitKU0JWRHQ4NkdwN2l4RHpRUWkzd0NZMk45Q1wvNUhmR2xLK1ZaUVo3UUtDYUk4bGR2NlRORXZVSHMrZ0d3TVJpWEpEbnlpVDR1S3g1cVdrcEVycWRaTVJyblpxajlOT04xT1VVb0JzVUQ1RE1SQXZralRYYm1tTWxFY21ldGtsWlQrSU9cL1FpQWsxMEtcL2U1bzIwQ3BuczJpUTdnUE13dENacFJUK2NpTnlhd0hMN0Y3TTBrK28yblhNTHM5Q243S1VtYnFlT0FVQ25xN3JmWU9cLzFvVWNiRE9PazRTUjVsMHV1QTVYOVNtSVpiSk1GRDdObDNIM3hCMDI0Y1FDbkdVZHVPem9wdkdGMVwvdVwvSWUxSjlmTWVISW9MNG9MN1wvTUVORkU5WXhpM2F5N1BCIn0=
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+#EXTINF:-1 tvg-id="707.astro" tvg-name="TLC HD" group-title="Life Style" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TLC_v1.png" ch-number="707",707 TLC
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTgzNzA0MTYiLCJyZWZyZXNoX3Rva2VuIjoibkFFNUtCR1wvQ0xZT1B6Zjl0UEladWJWWVlIbnhxT0w3UUhUKzJkNnp4ZXFNb294XC9rcXg1MkRIQkwxQmxPSDgrc3dac3dBTHo0M2xYdG1RODdBRzNBVE4rRVwvMExGSjBSXC91ckpiS2FIQVN5QzRmWW40QkhLeWlMeGVySWRJNkk1VkkxZnEwQmdOcnZVa3FITHMwZXB2WUZDaUNQXC9oWTl6K3Zrb1l1K2IyRWdVSnRocHJyR1llR2lFMFJpXC9pcXdDVHRISGo2NHpCbXRWWCtcLzFLaDdnNFFrMTNidnpcL09zV1JpSG5JRkRLdTNaaFQrR0VpN1NGN3JJNWpOSm9Hd0U1Vmx5bDZOeUdobEx6Mm9Ia3M3cCtaZzh0XC9OeWZMbkp1dkFUQ2V3VVFzTk1uandLUHZLdEcxM1VYMGR0ZXF3VDFLRzFFR2trUXl3bU5CcStEdUpsSDA3OWJ2aFFJU2ljUitKZGZsaWYxbjBIK3BjOFwvWW9WYUtoVHBCZkE4Qk54NyJ9
+
+
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.rocket-tv.online/1.php?id=5057&username=#EXTINF:-1 tvg-id="802.astro" group-logo="https://rocket-tv.online/Gambar.webp" tvg-name="ARENA 2 HD" group-title="TESTER CHANNEL" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" ch-number="802",802 Astro Arena 2
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTgyNDYwOTUiLCJyZWZyZXNoX3Rva2VuIjoidHA2dmlqOG1Gc1hjREZ1S0c0RkZpMElPT3pFVHVVbmxsWlRiWm83TFdLckpLRmZXTFRqbldYUVJ6YkdTWTdCODBVclZsWE1TeGRNS242N0xpeVNZWmdFZ0ZCVU05UkVRbmt4b2o2VGVybFJHYkllV25Gc3N1Tm1Rdk4zTEZ0TEhLMjZ2bnlOb1JRRTdEclNBc25kQ2F0aHpESjdqSmV6TmkxZUtsem03YkFaXC9Ba0E4MjlDenFOR2UzS2ZsQ2oxVEgxVUhtZ0M3NFFuNllcLzQ4WFRWUmdrUXhYU21NSFN4SWw1Z2c5Zk5Hdk5QVkFDVzg4bFd6SkZlelJFMW5pZXkrcEJpaFwvelwvQmpCa2hRelFQSGcySWFZb3VRMEhQSFdvbnBQWEFydDFPa2d5STlETUJubzlPaGpoS0N6ZFhyVGtcL2ZvRU1mc1FXVE9sUHdhRklsOFVnMnFlNkROVVJVbzBkd29mdWhieVVsY1Jjdmo5VjliVzlqVWszTXpIejdTRHIifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8yZr7GB/JYefSGQPMPHIiA","kid":"6k1RreAbvzlG4N6XMFG6EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="Movies" ch-number="404",404 BOO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Shield TV Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTgyNjEwNzMiLCJyZWZyZXNoX3Rva2VuIjoiR1RjUXl0Q0I1MVwvXC9cL1hvUHE5Y0g4ZEJGaDVJelZlNkJzdmxON2Y3aHE1S2NjUEl4Q0RSZCtMN2sxeGxQZ21mREdma0ZvXC8rV2NMUlJPOFJxRnQrbjV4TXJqdTRXZ1wvdlFwOENNclJEWlhhUFVlS1ozSkRmNGxIZDArMHc4VGkrOU8xZ2kweXJUXC9MU2g2R0VuWmtoMEFzdnZNaGk1MzJ4b1wvSVN0WkF1VytEd1pNcnJ4OXZZRTViOWk1ZFR6dkRtUnh0ZlhqVFdkXC91WCtlTTdkNHFOelAwRnRocnZYOWlVNFZnY1lHTXhNZnUxNVNDVWdXa2JhYkpkd0dUNkNuSThPaHM4Z3plU25GbUNNXC9ZXC9vWW1GZ045NStXZGRybXo0MXorUkN6TXdTcVRPM1wvc3VhYzBrWnB0VjBFaW96NkU3ZWxXcTdYZVBSTitvSlhLK1wvTUgxUUZaYXFTa21qb2NcL0MxU3p3cWpJRktvXC9KdG9WODc2UmpMM09zaHFjODRDT1AifQ==
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="Malaysia" group-logo="https://rocket-tv.online/Gambar.webp" tvg-logo="https://i.imgur.com/M0fsHDD.png" ch-number="611",611 Ceria
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzcyODQxOTYiLCJyZWZyZXNoX3Rva2VuIjoib2VraW1UUEw0enFTUWtxcXNOYks5ekE3R0ZZTlVzdFlLMllFc2gweHY4VDRZVXE2dEgzSTAyNzhhXC8rUnRDVEJmb1JDTTgxTVZmQ1Q1ODVmb05yeWM5dVQ4MWdUMk1cL0JoWGs3eE5QZXVZTHNydktDdlZqUmt3Y2hTXC9zWDRSUGZqY3dRNkVJS1RFcHdvNXlEVnR6MCtjelwvYXEwUW9iKzZtOHpjVzJOaHVVTkxGclwvaThNUUYxSEZxbzBBMlFtanlZbzNoUkNQVzVHaXd3bDdEVFU1R0M2TWU1Sk5RYlZwMUJmTHZlb1NxMEJsUktUN3RcL2xCXC92V1RDZVhTNVk2cndMNlk2bjZ4V0FLS2JiWHhwWkxLOHZxenZpOFwvaWIwcURyOU1odUdcLytrcHo5MGNvdDBnMGh1Y1ZHN1dLXC9tSXRoXC9lckxZNDM1cmp6OWZDcG5OS1FLY2VIazB5UUZQeTJtaTMrOHRVNFVMa1d0ZDl3djF6Y3lHUWM4ditMN0ZPWTUifQ==
+
+#EXTINF:-1 tvg-id="221" group-title="Sports | AstroGO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/221_1920x1080_HTV.png",Hub Premier 1 HD Vpn Singapore
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDc5NjE4MjAiLCJyZWZyZXNoX3Rva2VuIjoiZEpYd1dLRGt2RDcxbVZQNml1QVhWT2MwQkZicjJBUStYNnRBeEpndEZmd2h0MGc3OThpNmtLMEtTbGVHZzJ0ZTRHbjhJMU5WaHY3amNmSzFzb3B6cVdZMTd0ajJuNDA0cWI5VTVDQkVRbXpuNHJ5Z3RjV1wvNkd2ajNDeUZjeXdySGFER3RpNnIwNDFJc1hpZmo5VkNndXpKVUl1SWhnaW1QWEJ4UVZoWE9HWnFSNkZGUUVoRmhuZlBSWnVZME9jSHFNVHhuWDFINU00UWROQmJyV3RDNmRTNjBpeHZTZ1lLNERMNlRjSWpmQU13WmdyTlVSdTJSQmIzT0FjUk9TVERndVczYnNZSXdpRFJwS202TkVlZWpmVWNVRnZ5R1BmY0ZmXC9BdTZtbm82aFArMWpHbkh4UmljVTU2WVV0eFdxWUZ6YWJ3UXZjQXpXMGtsTE0rWlJEVlVNS1FzKytFVzJldDF6QWFuM3ZjY3M9In0=
+
