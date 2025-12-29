@@ -6,10 +6,9 @@
 #https://github.com/akkradet/IPTV-THAI/raw/refs/heads/master/nosignal.m3u8 
 #KODIPROP:inputstream.adaptive.license_typ#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"79pkfa1yNWO2Jb6MBe5hEA","k":"Z3aYWTizMhZLl7gf5WajSg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="801.astro" tvg-name="ARENA HD" group-title="Sports | AstroGO" group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" ch-number="801",801 Astro Arena
 #EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
-#https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDYxMjM5ODAiLCJyZWZyZXNoX3Rva2VuIjoiT1ZUaVYwQ1ZSK1pjam1FSzg0NUJGN3lISGdvVnhpQThjVjh2RFA3SnJDNUE5MGhaQWNHeU9NQ1p0dExuTTdlYkNMWUZRSFJrdEJhdmhZeE5HNUQwSnRCSndZTFlxSmJQY2tlT2k4WUpOZHZjN09MVTlsTWVWblpQZlFac1FcL2s0aDNoSHhwUmh4dytiYmxOU0RQd3Z3TW1oQ1FVVzRJOWFzUnlKNWVvUlVSS0RQTlJXaVFIcThBTlc2cmRFeU1CR3FBMHRhanl0eCtJNWxMMGVobXZFSlhnSWpja2ZiN2tJTVBmaFZiTFJwWWhuZjZVS1RVN2x0ejBJNndiNFdYTXBvVWEyN000M2F3N2RqUTZVUVp2ZmY2Y2dLeHd3V0E5TDFOdE12SjlCdGppSDRaZkRzckVUQXc4U1k3QmhzRzJ5R1FLNkE1Ym5XeXdTWVJ5bkVMdWxoTGJGUENON05NT2x0Sys3Y2ZYVDZcL250UnZBQjh4dEVIWlFWTjR1TThuRWsifQ==
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd  
 
 
