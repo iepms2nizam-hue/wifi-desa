@@ -1,6 +1,34 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jkIAv1xNUj/wC/0XPQIWAg","kid":"eExgN+WIjoQQbkEFn+KxEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="AstroRania" tvg-name="RANIA HD" group-title="Malaysia" tvg-logo="https://i.imgur.com/6XVguwv.png" ch-number="112",112 Astro Rania ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9cIxIYX58MSJS3POF0GdjA","kid":"hpwyN9L654MBqR27WpJNEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="113.astro" tvg-name="AURA HD" group-title="Malaysia" tvg-logo="https://i.imgur.com/JrJouVq.png" ch-number="113",113 Astro Aura ᶠᴴᴰ  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; pepek Build/RTM; 1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9cIxIYX58MSJS3POF0GdjA","kid":"hpwyN9L654MBqR27WpJNEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="113.astro" tvg-name="AURA HD" group-title="Malaysia" tvg-logo="https://i.imgur.com/JrJouVq.png" ch-number="113",113 Astro Aura ᶠᴴᴰ  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; pepek Build/RTM; 1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODEwOTQ3NjUiLCJyZWZyZXNoX3Rva2VuIjoiSnQ2bkFTU3Fqd1V6UXZIbEtjRU16dlYrSDJRWEV1RkxicDdnQ1F2Q25cL2xRbDJSYzNyQldTTm1QWG03Nlh1MkRmVHM1UGlESFlwM3BOUXJxTFpDZ29RYmhJK2FZYzZ1OXprWnlaaGlDV2lvaDhaSDNSWEtKVER2eTlwUDV2UTA0R1JxV0drcVR2cGw4RU5jTWppbmhWMGhqV1dUWE5WVEVMNmlHR3dxU2x4TEZaVEpSbnNUVXZCdkxwem1OUjBraHVmVHJiSmxyR2JjNWRTc1FrMHNXTGV1OTg5Y2pXZ1hlYzlJZGhBdnhnTmxYeDJEdHZ1d29LMzZiRnFpZXNKXC9GSmNvZTZyRDBBNGQyNERDNjA4WkV1YXg4WlA2NWFZdTRrMjZCT2R4TmZWbUp6VG1keis4RzZISnNwem1oaGJWdjFybmdrd2VXeVc3Uzhaa295Zm94REkrb1pxTXRvMEFGcituZ2JiZHFjeFwvTmpOaTJJSHVLcTMxaU44UEordkdvIn0=
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V6jW+eODKIfbGOpgcRGHNg","kid":"QaQvta9FdQHBG7mxWNWhEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="114.astro" tvg-name="TV ALHIJRAH" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" ch-number="114",114 TV Alhijrah ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+
+===========movie =============
 
 #EXTINF:-1 group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" group-title="‼️‼️ INFO PENGGUNA ‼️‼️" tvg-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg", 🎬 - PlaylistType :- all
 #https://github.com/akkradet/IPTV-THAI/raw/refs/heads/master/nosignal.m3u8 
@@ -130,4 +158,6 @@ SUKAN
 #EXTINF:-1 tvg-id="410.astro" tvg-name="ASTRO PREMIER" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png" group-title="Movies" ch-number="410",410 Astro Premier
 #EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
+
+
 
