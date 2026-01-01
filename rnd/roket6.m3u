@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/mdferin/mpd/refs/heads/main/Rocket/default_pri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Malaysia" tvg-logo="https://i.imgur.com/Rr1E0Ym.png" ch-number="105",105 Astro Prima FHD Server 1
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.2 (Linux; Android 10)
 https://nanopi.rocket-ott.shop/Astro_Prima/default_ott.mpd
 
 
