@@ -15,7 +15,7 @@ https://onm.rocket-ott.shop/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTYzODE3NTQiLCJyZWZy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.1915.1844 Mobile Safari/537.36
 https://raw.githubusercontent.com/mdferin/mpd/refs/heads/main/Rocket_Ott/ROCKET_OTT.mpd
 
-
+#EXTHTTP:{"X-Token":"1aac837a3875c2df0851a16d42b091614e36477262322f4c6942333944452b42545949436259586564615736764448532b574a356974756c536c6b3d"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 #EXTINF:-1 tvg-id="801.astro" tvg-name="ARENA HD" group-title="Sports | AstroGO" group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" ch-number="801",801 Astro Arena
