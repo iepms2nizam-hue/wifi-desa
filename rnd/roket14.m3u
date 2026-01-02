@@ -1,14 +1,14 @@
 #EXTM3U
 
 
-#EXTHTTP:{"X-Token":"4666e71cb91e09f83c84d345ecab25e94d6d486a7a505633336b487534614e6752384e7a534b636345516f73705063656872576d717178685164303d"}
+#EXTHTTP:{"X-Token":"89fb54cdf52a2199a5c963681cc80e92305573642f61494e506359767a6c7843666c485753666a574a363442664e774a30384442517269736e44553d"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="Malaysia" group-logo="https://rocket-tv.online/Gambar.webp" tvg-logo="https://i.imgur.com/M0fsHDD.png" ch-number="611",611 Ceria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.1915.1844 Mobile Safari/537.36
 https://nanopi.rocket-ott.shop/Cors-Cdns/2606/default_ott.mpd
 
-#EXTHTTP:{"X-Token":"4666e71cb91e09f83c84d345ecab25e94d6d486a7a505633336b487534614e6752384e7a534b636345516f73705063656872576d717178685164303d"}
+#EXTHTTP:{"X-Token":"89fb54cdf52a2199a5c963681cc80e92305573642f61494e506359767a6c7843666c485753666a574a363442664e774a30384442517269736e44553d"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HuOyUiJ8XC7JN4yDPS4U/w","kid":"6tAzXWBAEiVyem1THpwnEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="802.astro" group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" tvg-name="ARENA 2 HD" group-title="Sports | AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" ch-number="802",802 Astro Arena 2
