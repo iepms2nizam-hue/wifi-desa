@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440"
->>>>>>>>>>>>ASTRO CITRA<<<<<<<<<<<<<<<<
+#EXTM3U
 
 #EXTINF:-1  tvg-id="AstroCitra" group-title="MALAYSIA"  ch-number="108" group-logo="https://da.gd/starlogo" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkwOlVgIRs7HxVP7gE6VLK0XsQRhCBi6Y4Udw_UF6M0CxQdA3_jrIV7EJ3_PhVZHVRd4EHj_Ruurz-_ioV74h_6NLbkK9O4YvDaLbSZJ6PmUiJOvu2Xic5pVW5iQ3dkqXn9xAeaf5-vQ1HT-Z9dA0uLLUcpZL5Beg7g1mPMnm9WebN3TYJ8neghkBuyzU5",Astro Citra (A)
 #Citra KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
