@@ -1,10 +1,8 @@
 #EXTM3U
 
-#EXTHTTP:{"X-Token":"1220bf5c1cad38f50f3e74c5de5527ea6867736744754541625934524d4f4d592b45364f5541517274496659726c79734c713072746277724835303d"} 
+#EXTHTTP:{"X-Token":"f5d1cb96f4d2124935c0c78b2c0b49c47a754467496f43756c564f445332766976386266713432702b756c6a6c4f3933476e64654856594631736b3d"} 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1; wv)
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="Malaysia" group-logo="https://nanopi.rocket-tv.online/Gambar/onm.jpg" tvg-logo="https://i.imgur.com/0EtLtI6.png" ch-number="104",104 Astro Ria FHD
 https://nanopi.rocket-ott.shop/Astro_Ria/default_primary.mpd
-
-
