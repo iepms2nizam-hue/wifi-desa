@@ -7,3 +7,11 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.1915.1844 Mobile Safari/537.36
 https://nanopi.rocket-ott.shop/Cors-Cdns/2604/default_ott.mpd|X-Token=b616efc64a6ee6ce89396e92971324146b556e6e55534a732f504c69676733722b666859683877512b362f6b4e53464f42665738394e6d683275513d
 
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1; wv)
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="Malaysia" group-logo="https://nanopi.rocket-tv.online/Gambar/onm.jpg" tvg-logo="https://i.imgur.com/0EtLtI6.png" ch-number="104",104 Astro Ria FHD
+https://nanopi.rocket-ott.shop/Astro_Ria/default_primary.mpd|X-Token=f5d1cb96f4d2124935c0c78b2c0b49c47a754467496f43756c564f445332766976386266713432702b756c6a6c4f3933476e64654856594631736b3d
+
+
