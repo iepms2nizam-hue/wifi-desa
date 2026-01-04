@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTHTTP:{"X-Token":"31da2c21d2d46551c39b29ab977b09ba4c376d6866464c6c52734435414b566c38516c71726277304d70327037354b7943446c4469686165524a413d"} 
+#EXTHTTP:{"X-Token":"e79e7de1dfc455ee8e342d0a7966dffa7430485443623530754c70643774634c73667a556247312f425371454342524f4a6d73324e70687135726b3d""} 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1; wv)
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
