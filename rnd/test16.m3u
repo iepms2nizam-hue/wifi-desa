@@ -1,11 +1,9 @@
 #EXTM3U
 
 
-
-#EXTHTTP:{"X-Token":"b616efc64a6ee6ce89396e92971324146b556e6e55534a732f504c69676733722b666859683877512b362f6b4e53464f42665738394e6d683275513d"} 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 #EXTINF:-1 tvg-id="801.astro" tvg-name="ARENA HD" group-title="Sports | AstroGO" group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" ch-number="801",801 Astro Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.1915.1844 Mobile Safari/537.36
-https://nanopi.rocket-ott.shop/Cors-Cdns/2604/default_ott.mpd
+https://nanopi.rocket-ott.shop/Cors-Cdns/2604/default_ott.mpd|X-Token":"b616efc64a6ee6ce89396e92971324146b556e6e55534a732f504c69676733722b666859683877512b362f6b4e53464f42665738394e6d683275513d
 
