@@ -1,6 +1,31 @@
 #EXTM3U
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#EXTINF:-1 tvg-name="RIA HD" group-logo="https://da.gd/starlogo" tvg-logo="https://da.gd/ffria" group-title="MALAYSIA",Astro Ria (A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; KB2000 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36 ASTRO GO 2.251.1/AC25.1.1/cda3468da6
+https://load.perfecttv.net/mpd/ria/manifest.mpd
+#https://get.perfecttv.net/dash2.mpd?channel=astroria&username=vip_level7&password=vip_level7
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#EXTINF:-1 tvg-name="RIA HD" group-logo="https://da.gd/starlogo" tvg-logo="https://da.gd/ffria" group-title="MALAYSIA",Astro Ria (B)
+#EXTVLCOPT:http-user-agent=Moz"illa/5.0 (Linux; Android 11; KB2000 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36 ASTRO GO 2.251.1/AC25.1.1/cda3468da6
+https://viplink.biz/ZClsOLAAq6usnmXpzU_2xMW5B.mpd?id=1004
+https://linears2-playback.astro.com.my/vsg/41XQgEVhHtQwTYRSQaCaUa7QSe6wK19H0YVXWtVk0xeqk=eNxr/dash-wv/jitp-linearwm/1004/default_primary.mpd
+#https://fastlx.tencent-cdn.space/play.mpd?channel=ria
+https://geolock.tencent-cdn.space/ZClsOLAAq6usnmXpzU_2xMW5B.mpd?id=1004
+
+#EXTINF:-1 tvg-name="RIA HD" group-logo="https://da.gd/starlogo" tvg-logo="https://da.gd/ffria" group-title="MALAYSIA",Astro Ria (C)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.aqfadtv.xyz/?username=HishamKamarul&channelid=1004
+https://linears2-playback.astro.com.my/vsg/41wBMiF4z-_pEy4DXNLPQaKTXnSSV00okeOmJ-94F_-KI=0chK/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://live.aqfadtv.xyz/ria/index.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
