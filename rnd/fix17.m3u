@@ -22,7 +22,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1113/default_ott.mpd
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
-#EXTINF:1 tvg-id="701" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" group-title=" SPORTS" tvg-name="unifi Sports 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgYUm0CZJKTfB-EGZrEhcru6C8GPh6BCQ4mJjbBCSKBdLmtlgQ6RWfZ5-RJXObWVVT_8vOq4QN84HsffEknkWwWVg6AvWWrjdkOp-mcl29nb8qVnlRq-4bvn9nvhY8d8Rgf6haGTB9iciBjW7jprlqhtzdshEtffqWZzje56cKCkEfnoQRne9uqbbeKv3WH",Unifi Sports 1 HD
+#EXTINF:-1 tvg-id="701" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" group-title=" SPORTS" tvg-name="unifi Sports 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgYUm0CZJKTfB-EGZrEhcru6C8GPh6BCQ4mJjbBCSKBdLmtlgQ6RWfZ5-RJXObWVVT_8vOq4QN84HsffEknkWwWVg6AvWWrjdkOp-mcl29nb8qVnlRq-4bvn9nvhY8d8Rgf6haGTB9iciBjW7jprlqhtzdshEtffqWZzje56cKCkEfnoQRne9uqbbeKv3WH",Unifi Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
