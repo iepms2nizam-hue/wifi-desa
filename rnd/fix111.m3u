@@ -45,10 +45,6 @@ https://get.perfecttv.net/mytv.mpd?username=vip_5n79e3qb&password=z8cwUIl1&chann
 #EXTINF:-1  group-title=" MOVIES" tvg-id="Animax" group-logo="https://da.gd/ffliqsg" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiVgbVfhg1YZRt_1zn4Eo4CqKloqYaOyiGsatfMN4t4KV78BJXnvvVVN8t7_bjXKl64Hli4mF5B-F5P8PW_-Wb5KE7SxrZ8oopDKi7fWoFtXdpCtLr-akwhuBN2dyhF-sTAqIMdkhoO1m0PvTTZHMypMFkw4y1vGAzATvgor2qeL6yPmtZOWQ6bKNCdy7gi",ANIMAX (ID)
 https://otto-aplikasi.my.id/rusee/playyusee.m3u8?id=animax
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4307def6a29bec082f8c93f1f98e5910:a4d49bda8cd29ba2888c732b4e7d9d63
-#EXTINF:-1 tvg-id="HITSNow" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgU-qRlmOoOHOe9f3akognmT1TxWZVPmI1PP7HRJRAY-J7qpbYZQDz8X1sv5CHcmMu9iqRkxVljkkxAMgUyQzwXhUuqmGuMwrJmu5I4YGSfwQ_YGwDz3y3QOY48FP_9kgtU-skY5CUOreU5TicDestBOXIHzn7uGFMRmbFRtLM-YvyWz4Favx95hlqeRU7z" group-title=" MOVIES",HITS Now
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 
 #EXTINF:-1  group-title=" MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjXf_EW5OWcdI5P8GnrGmuMjjo4AxOUrP1pT2sleaMJr3oNGjKFwi7FJclF8N5t3P5vY1Grtarr3AwfUhqKcowOoOoNw6aEGgCDDADzi263zze6gZl5mUveCkOZNadMO7oYRe7dll6V6QAaUWq4m0xIZ0QFzZklTEhGL25gpO9ycGRxGu-dqlN6A-hOKQYt",Sony Max 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -62,11 +58,11 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 
-#EXTINF:-1 group-logo="" group-title="ENTERTAINMENT" tvg-id="702.astro" tvg-logo="https://get.perfecttv.net/logo/hitsnow.png" group-logo="" ,175 HITS Now
+#EXTINF:-1 tvg-id="HITSNow" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgU-qRlmOoOHOe9f3akognmT1TxWZVPmI1PP7HRJRAY-J7qpbYZQDz8X1sv5CHcmMu9iqRkxVljkkxAMgUyQzwXhUuqmGuMwrJmu5I4YGSfwQ_YGwDz3y3QOY48FP_9kgtU-skY5CUOreU5TicDestBOXIHzn7uGFMRmbFRtLM-YvyWz4Favx95hlqeRU7z" group-title=" MOVIES",HITS Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4307def6a29bec082f8c93f1f98e5910:a4d49bda8cd29ba2888c732b4e7d9d63
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
+https://get.perfecttv.net/dash2.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=hitsnow
 
 #EXTINF:-1 tvg-id="KIX.id" group-title=" MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi2Z4szyD7-K222o4fBLeKut0q7KjohrecDQx8qHX1TdgRrHmfB7A-vGHRarvDwmtxMM0Q9EkrHaOiKoiYiCGiiWQ0pVcV2ACaR7f9FT9udmiPyVeyxSArLCkdJoMeo0DV8sF0HJCNyYVY4k6QaBZSfOfdjL3UwKBijgrqHq7xwp2gONLd9txoSDow1dlt1",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 
