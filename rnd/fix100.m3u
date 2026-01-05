@@ -29,19 +29,18 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 MOVIE
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
-#EXTINF:-1  tvg-id="473" tvg-name="ROCK Entertainment" group-title=" MOVIES" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" ch-number="473",473 ROCK Entertainment
-https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
+#EXTINF:-1 group-logo="" group-title="ENTERTAINMENT" tvg-id="473.unifi" ch-number="473" tvg-logo="https://get.perfecttv.net/logo/rockentertainment.png" group-logo="", 171 Rock Entertainment 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://get.perfecttv.net/mytv.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=rockent.my
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0Safari/537.36"}
+
+#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="474.unifi" ch-number="474" tvg-logo="https://get.perfecttv.net/logo/rockaction.png",147 Rock Action
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=8121&type=drm 
-#EXTINF:-1  group-title=" MOVIES" tvg-name="ROCK Action" tvg-id="474" ch-number="474" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png",474 ROCK Action
-https://sweet-night-1d1d.worst.workers.dev/?id=8121&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://get.perfecttv.net/mytv.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=rockaction.my|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+
 
 #EXTINF:-1  group-title=" MOVIES" tvg-id="Animax" group-logo="https://da.gd/ffliqsg" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiVgbVfhg1YZRt_1zn4Eo4CqKloqYaOyiGsatfMN4t4KV78BJXnvvVVN8t7_bjXKl64Hli4mF5B-F5P8PW_-Wb5KE7SxrZ8oopDKi7fWoFtXdpCtLr-akwhuBN2dyhF-sTAqIMdkhoO1m0PvTTZHMypMFkw4y1vGAzATvgor2qeL6yPmtZOWQ6bKNCdy7gi",ANIMAX (ID)
 https://otto-aplikasi.my.id/rusee/playyusee.m3u8?id=animax
@@ -57,7 +56,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd|use
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
-
+#EXTINF:-1 group-logo="" group-title="ENTERTAINMENT" tvg-logo="https://get.perfecttv.net/logo/kix.png",169 KIX 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 
 
