@@ -17,3 +17,6 @@ https://get.perfecttv.net/dash2.mpd?username=vip_5n79e3qb&password=z8cwUIl1&chan
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V6jW+eODKIfbGOpgcRGHNg","kid":"QaQvta9FdQHBG7mxWNWhEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 312534-2334-2645-2342-6-23-236-34223-1-2-343-43567-4-123-342) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1113/default_ott.mpd
+
+#EXTINF:-1 tvg-id="ImpactWrestling.us" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgumBHemOugefVhpr_2isTv_gF7Z83HJAwCg8U78ILtyEJVE_cC7TtS0wjLmMQtLwb48OwBGOwgJ5a_uPC47xUca0VHEHlMLf-kpjMI4_wr2UkOh4-TzEo7xReJeqmEOlHOVS5HSqVoMTMJOvvL_sCFuV_cD3ejnEOktdKylAAoJS7zDqWHOnqCKmx5kNN2" group-title=" SPORTS",IMPACT! Wrestling 
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
