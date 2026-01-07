@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE BOLA HD" tvg-logo="https://example.com/logo.png" group-title="SPORTS",LIVE BOLA HD
+#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1,LIVE BOLA HD
 https://cxyznt1-cf.didjhfyu8yg.sbs/auth=3ab6b2b9fd908e9c898139a6e0c256817f3cef8f4148c44795903691c963df80863e235c5e76c9c3693aca1a15a43dac5f6481c13c660e1a5f717b2e6b0469c5993d938037f59ddefcd39b88f6af1db0c0904748d06e5c27b936fea58bee52dc77aa6d098ea5d375264041207e44b5241a0ad1afa7b8a1b618d83d418a309bea0717fb94579bbd329764a16de0543a5a5ea1087eaca415ee4d8cd38ff2c21f53&cid=tADbNtObcEW2LBLUomKJJ260108&_v=2&_r=lV36Wo&_vis=247ff4127cdd68bc1215586f3eaacb20a48d1c1c598b1d374e758e4c181d0167&_vvs=f66fc39c17287659e37fb77a898cd4e6cbf46f6e1c33a531b6f400318c261713/app/c395389.m3u8
