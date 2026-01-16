@@ -24,10 +24,7 @@ https://live-ssar-02.tonton.com.my/1768557174/0x57b645a5f872d55e1e4ca44397446a62
 
 
 #EXTINF:-1 tvg-id="8tv" group-title="UnifiTV", 8TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(8TV)/master.mpd|User-Agent=Mozilla/5.0%20(Windows%2010)%20Firefox/130.0
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DuniaSin)/master.mpd?ck=MDFhMTc2MjU3MDFlNDczNGIwMmFhMjJjODY1N2JkNmY6OTc1YTQ4M2RmNDIyNDU1ZGJjMjlhMWQ4M2VkNmYxNTQ%3D&manifest_type=dash&image=aHR0cHM6Ly9ibG9nZ2VyLmdvb2dsZXVzZXJjb250ZW50LmNvbS9pbWcvYS9BVnZYc0VqNTFZSTk5NU9aWnJpQTBJc2t3ZkE0aWtIVk9DN2FkbzZmR09oZ3Nfc18zekVfd0lOOHczdFBRRUpfZ3BPYXZFZkxGMmhqWDdHRWM1akRqSU4yNWZGNl92VC0xenk5ZEhsTzZkYW80TmdDT1JaYW91QUIxZlFLdXNCZWJNRUxLejZkZVJESnZ5dTJfdG5DckpTOVlyZk9oZXAwejVZbGhZNFBENWVid2l3Sld5N2Ric3JCODZsUDBNY3VPQ2s4&title=Dunia+Sinema
 
 
 
