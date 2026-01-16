@@ -213,8 +213,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lY6ctzieIJSN5aVC0nKezw", "kid":"J4KHJ/CjoLT7xmg3jM+MEA" } ], "type":"temporary" }
 #EXTINF:-1  tvg-id="149" ch-number="149" tvg-name="TV9" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh1PpusEIAUqg8Dhb9UPTRb3UKw3fUV2_sQf7Bs0Prtj0wTBKfxq7e1DjOAx7P1YAoExUgBBRNp63oSe3RO34CqO4R-3dXN4fG8JpCfW1xk0MZVQ4U2cGlMofqJwacVBQSrzwd2Ndv1_Y8H46QxgjXfUl5UQxxi0MXuG6OFuhsgcqav-xPK9xvgMRngl_4V",149 TV9
-https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
+#EXTINF:-1  tvg-id="149" ch-number="149" tvg-name="TV9" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh1PpusEIAUqg8Dhb9UPTRb3UKw3fUV2_sQf7Bs0Prtj0wTBKfxq7e1DjOAx7P1YAoExUgBBRNp63oSe3RO34CqO4R-3dXN4fG8JpCfW1xk0MZVQ4U2cGlMofqJwacVBQSrzwd2Ndv1_Y8H46QxgjXfUl5UQxxi0MXuG6OFuhsgcqav-xPK9xvgMRngl_4V",149 TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
+#https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+
 
 #EXTINF:-1  tvg-id="146" ch-number="146" tvg-name="TV Okey" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg3Y0nf5qrIDjgEsVrliLbhEdOOim_Gx4TvTVGtRz54MCiEnbMC_PQNGszNBnI1WIt_liz9e1bZWSijyHhZuJ3Bc6HQcgDh5TtfKfOK33usk2ONSyspnbHgBdP1WWR5ad3uV9YreVJ0wnGeJOCLDj_h7tAlbu32B08eLNLbrMps9CxInTByKggG5oMwq-ZX", 146 Okey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
