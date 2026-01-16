@@ -25,7 +25,7 @@ https://gitlab.com/xtraxxgeforce/media/-/raw/main/ria
 
 >>>>>>>>>>>>ASTRO CITRA<<<<<<<<<<<<<<<<
 
-#EXTINF:-1  tvg-id="AstroCitra" group-title="MALAYSIA"  ch-number="108" group-logo="https://da.gd/starlogo" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkwOlVgIRs7HxVP7gE6VLK0XsQRhCBi6Y4Udw_UF6M0CxQdA3_jrIV7EJ3_PhVZHVRd4EHj_Ruurz-_ioV74h_6NLbkK9O4YvDaLbSZJ6PmUiJOvu2Xic5pVW5iQ3dkqXn9xAeaf5-vQ1HT-Z9dA0uLLUcpZL5Beg7g1mPMnm9WebN3TYJ8neghkBuyzU5",Astro Citra (A)
+#EXTINF:-1  tvg-id="AstroCitra" group-title="MALAYSIA"  ch-number="108" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkwOlVgIRs7HxVP7gE6VLK0XsQRhCBi6Y4Udw_UF6M0CxQdA3_jrIV7EJ3_PhVZHVRd4EHj_Ruurz-_ioV74h_6NLbkK9O4YvDaLbSZJ6PmUiJOvu2Xic5pVW5iQ3dkqXn9xAeaf5-vQ1HT-Z9dA0uLLUcpZL5Beg7g1mPMnm9WebN3TYJ8neghkBuyzU5",Astro Citra (A)
 #Citra KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 https://get.perfecttv.net/citra/citra.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrocitra
@@ -35,7 +35,7 @@ https://get.perfecttv.net/citra/citra.mpd?username=vip_3klp0es8&password=wg3piwE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-#EXTINF:-1  tvg-id="AstroCitra" group-title="MALAYSIA"  ch-number="108" group-logo="https://da.gd/starlogo" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkwOlVgIRs7HxVP7gE6VLK0XsQRhCBi6Y4Udw_UF6M0CxQdA3_jrIV7EJ3_PhVZHVRd4EHj_Ruurz-_ioV74h_6NLbkK9O4YvDaLbSZJ6PmUiJOvu2Xic5pVW5iQ3dkqXn9xAeaf5-vQ1HT-Z9dA0uLLUcpZL5Beg7g1mPMnm9WebN3TYJ8neghkBuyzU5",Astro Citra (B)
+#EXTINF:-1  tvg-id="AstroCitra" group-title="MALAYSIA"  ch-number="108" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkwOlVgIRs7HxVP7gE6VLK0XsQRhCBi6Y4Udw_UF6M0CxQdA3_jrIV7EJ3_PhVZHVRd4EHj_Ruurz-_ioV74h_6NLbkK9O4YvDaLbSZJ6PmUiJOvu2Xic5pVW5iQ3dkqXn9xAeaf5-vQ1HT-Z9dA0uLLUcpZL5Beg7g1mPMnm9WebN3TYJ8neghkBuyzU5",Astro Citra (B)
 https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41zXSCZgiEXw5LZ6Uy3-uSWGrTJupHlXM75sf7iMVNKCI=ZbxW/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=03cb66bd-3a01-4519-8fcf-68dc0cbf180b
 
 
@@ -45,21 +45,21 @@ https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.co
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#EXTINF:-1 tvg-name="RIA HD" group-logo="https://da.gd/starlogo" tvg-logo="https://da.gd/ffria" group-title="MALAYSIA",Astro Ria (A)
+#EXTINF:-1 tvg-name="RIA HD" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://da.gd/ffria" group-title="MALAYSIA",Astro Ria (A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; KB2000 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36 ASTRO GO 2.251.1/AC25.1.1/cda3468da6
 https://load.perfecttv.net/mpd/ria/manifest.mpd
 #https://get.perfecttv.net/dash2.mpd?channel=astroria&username=vip_level7&password=vip_level7
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#EXTINF:-1 tvg-name="RIA HD" group-logo="https://da.gd/starlogo" tvg-logo="https://da.gd/ffria" group-title="MALAYSIA",Astro Ria (B)
+#EXTINF:-1 tvg-name="RIA HD" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://da.gd/ffria" group-title="MALAYSIA",Astro Ria (B)
 #EXTVLCOPT:http-user-agent=Moz"illa/5.0 (Linux; Android 11; KB2000 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36 ASTRO GO 2.251.1/AC25.1.1/cda3468da6
 #https://viplink.biz/ZClsOLAAq6usnmXpzU_2xMW5B.mpd?id=1004
 https://linears2-playback.astro.com.my/vsg/41mHG3OcAKyNUAlCldo_VTMrK4_VqV8b9kS8oCzrxgIPs=JW1w/dash-wv/jitp-linearwm/1004/default_ott.mpd
 #https://fastlx.tencent-cdn.space/play.mpd?channel=ria
 https://geolock.tencent-cdn.space/ZClsOLAAq6usnmXpzU_2xMW5B.mpd?id=1004
 
-#EXTINF:-1 tvg-name="RIA HD" group-logo="https://da.gd/starlogo" tvg-logo="https://da.gd/ffria" group-title="MALAYSIA",Astro Ria (C)
+#EXTINF:-1 tvg-name="RIA HD" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://da.gd/ffria" group-title="MALAYSIA",Astro Ria (C)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -79,7 +79,7 @@ https://linears-playbackmy.mobileads.uno/un5/uni5.mpd?id=Pesona
 >>>>>>>>>>>>ASTRO PRIMA<<<<<<<<<<<<<<<<
 
 
-#EXTINF:-1 tvg-id="AstroPrima" group-title="MALAYSIA"  ch-number="105" group-logo="https://da.gd/starlogo" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjKVc8N-jqc1yUD3AjLaw19guV15ic1h1xfLkP8HjTj6mjdfhirP13KRQaIrS3QRc_wjNkXiWPk6a9cLcnCgFfixBsg1ukNGV2tW1NYrP0Suv0YfVlis-2vz5VOsdzYdLspEhbuK8ZDCX70pDdboBcqHlPg2wRzMdf5AECYNucOzCuEiypih_DQ85Bd9iOJ",Astro Prima (A)
+#EXTINF:-1 tvg-id="AstroPrima" group-title="MALAYSIA"  ch-number="105" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjKVc8N-jqc1yUD3AjLaw19guV15ic1h1xfLkP8HjTj6mjdfhirP13KRQaIrS3QRc_wjNkXiWPk6a9cLcnCgFfixBsg1ukNGV2tW1NYrP0Suv0YfVlis-2vz5VOsdzYdLspEhbuK8ZDCX70pDdboBcqHlPg2wRzMdf5AECYNucOzCuEiypih_DQ85Bd9iOJ",Astro Prima (A)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -88,7 +88,7 @@ https://linears-playbackmy.mobileads.uno/un5/uni5.mpd?id=Pesona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
 https://load.perfecttv.net/mpd/prima/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroPrima" group-title="MALAYSIA"  ch-number="105" group-logo="https://da.gd/starlogo" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjKVc8N-jqc1yUD3AjLaw19guV15ic1h1xfLkP8HjTj6mjdfhirP13KRQaIrS3QRc_wjNkXiWPk6a9cLcnCgFfixBsg1ukNGV2tW1NYrP0Suv0YfVlis-2vz5VOsdzYdLspEhbuK8ZDCX70pDdboBcqHlPg2wRzMdf5AECYNucOzCuEiypih_DQ85Bd9iOJ",Astro Prima (B)
+#EXTINF:-1 tvg-id="AstroPrima" group-title="MALAYSIA"  ch-number="105" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjKVc8N-jqc1yUD3AjLaw19guV15ic1h1xfLkP8HjTj6mjdfhirP13KRQaIrS3QRc_wjNkXiWPk6a9cLcnCgFfixBsg1ukNGV2tW1NYrP0Suv0YfVlis-2vz5VOsdzYdLspEhbuK8ZDCX70pDdboBcqHlPg2wRzMdf5AECYNucOzCuEiypih_DQ85Bd9iOJ",Astro Prima (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 FbbRys Build/RTM5.220609.199FbbRys; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
@@ -97,7 +97,7 @@ https://linears2-playback.astro.com.my/vsg/41WL6g9GbPRFjR1v6-UcGnT_-Q3WQnUbxSo6r
 https://geolock.tencent-cdn.space/ZClsOLAAq6usnmXpzU_2xMW5B.mpd?id=1000
 #https://fastlx.tencent-cdn.space/play.mpd?channel=prima
 
-#EXTINF:-1 tvg-id="AstroPrima" group-title="MALAYSIA"  ch-number="105" group-logo="https://da.gd/starlogo" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjKVc8N-jqc1yUD3AjLaw19guV15ic1h1xfLkP8HjTj6mjdfhirP13KRQaIrS3QRc_wjNkXiWPk6a9cLcnCgFfixBsg1ukNGV2tW1NYrP0Suv0YfVlis-2vz5VOsdzYdLspEhbuK8ZDCX70pDdboBcqHlPg2wRzMdf5AECYNucOzCuEiypih_DQ85Bd9iOJ",Astro Prima (C)
+#EXTINF:-1 tvg-id="AstroPrima" group-title="MALAYSIA"  ch-number="105" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjKVc8N-jqc1yUD3AjLaw19guV15ic1h1xfLkP8HjTj6mjdfhirP13KRQaIrS3QRc_wjNkXiWPk6a9cLcnCgFfixBsg1ukNGV2tW1NYrP0Suv0YfVlis-2vz5VOsdzYdLspEhbuK8ZDCX70pDdboBcqHlPg2wRzMdf5AECYNucOzCuEiypih_DQ85Bd9iOJ",Astro Prima (C)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -152,7 +152,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
 https://linears2-playback.astro.com.my/vsg/418QZ40ZNRlP9-UFnCCWTkT8ssj_ZSDWdc1nf2eRrE5ig=iRUo/dash-wv/jitp-linearwm/5170/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-logo="https://da.gd/starlogo" group-title="SPORTS" ch-number="815" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBc7NVB1EqxbCTjJwHFAJGNUCgk2R5yxvxrxrUxxORBmrW26nZuoJRijZVM5T06Mmv2wUGSslk3DGLZDQt49793E2NOqQYscl68nVPSGCYOeFQcZqq02BVdmXXPd1WUNtvmMj5-VysmNQ7GALa57joD9rV8-jNIW8YT57GqzmIzzJ6lHSQ089fO0XCPDQB",Astro Badminton A
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" group-title="SPORTS" ch-number="815" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBc7NVB1EqxbCTjJwHFAJGNUCgk2R5yxvxrxrUxxORBmrW26nZuoJRijZVM5T06Mmv2wUGSslk3DGLZDQt49793E2NOqQYscl68nVPSGCYOeFQcZqq02BVdmXXPd1WUNtvmMj5-VysmNQ7GALa57joD9rV8-jNIW8YT57GqzmIzzJ6lHSQ089fO0XCPDQB",Astro Badminton A
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
