@@ -143,11 +143,14 @@ https://ls-mp01.eo-edgefunctions7.com/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/ma
 #KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
 
-#EXTINF:-1  tvg-id="816.astro" tvg-name="ASSP6 HD" group-title="SEA GAMES THAILAND 2025" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiiBOzCkYdMnUuKcLNOHdzsbAeHs3g_XvbI-xGQXg9e2VJ9oQSbrNg-ZUs28xY2aJNDXYcvG62g0Ea_Lh_vbm6NOOZuvWWLMDFD1NUV0Uou0R7BrtyTyAIUK9n3jwglGqlGXt4zipLHXffVPp9yAgj_ngmku0ojhxBs8IDfrH5xeCm0gWhhReDSuLe-JTth" ch-number="816",816 Astro Badminton 2
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="SEA GAMES THAILAND 2025" ch-number="815" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBc7NVB1EqxbCTjJwHFAJGNUCgk2R5yxvxrxrUxxORBmrW26nZuoJRijZVM5T06Mmv2wUGSslk3DGLZDQt49793E2NOqQYscl68nVPSGCYOeFQcZqq02BVdmXXPd1WUNtvmMj5-VysmNQ7GALa57joD9rV8-jNIW8YT57GqzmIzzJ6lHSQ089fO0XCPDQB",Astro Badminton B
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F8Ga1nClV+aIJBnWkj+tJw","kid":"cq1uqhkEVAE4SH//o61lEA"}],"type":"temporary"} 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"g3KLRwGavbs3qjbtXylRvQ","kid":"b/DgQNVE7D8CJDhlmQ8MEA"}],"type":"temporary"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
+https://linears2-playback.astro.com.my/vsg/418QZ40ZNRlP9-UFnCCWTkT8ssj_ZSDWdc1nf2eRrE5ig=iRUo/dash-wv/jitp-linearwm/5170/default_primary.mpd
+
 
 
 >>>>>>>>>>Astro Boo<<<<<<<<<<<<
