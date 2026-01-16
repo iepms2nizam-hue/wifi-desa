@@ -30,6 +30,9 @@ https://live-ssar-02.tonton.com.my/1768557174/0x57b645a5f872d55e1e4ca44397446a62
 #KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(8TV)/master.mpd
 
+#EXTM3U
+#EXTINF:-1 tvg-id="8tv" group-title="UnifiTV", 8TV
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(8TV)/master.mpd|User-Agent=Mozilla/5.0%20(Windows%2010)%20Firefox/130.0&Origin=https://cdpn.io&Referer=https://cdpn.io&license-type=clearkey&license-key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
 
 
 
