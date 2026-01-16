@@ -24,6 +24,13 @@ tv8
 https://live-ssar-02.tonton.com.my/1768557174/0x57b645a5f872d55e1e4ca44397446a6278c8edb0abc612023e404a5f26526914/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02e2fe99cb3eff9bcf&did=14737de5-d5d4-5a88-51fa-c866b462f060&dnt=0&ifatype=sessionid&plt=web&lot_auds=&ttd_uid2=A4AAACaICIVd0LAoggNIRNGlBvP14WYQ2Lv_aAY7prBGPyDxuiw7HFTmmFFEa53D1m5ZjZezDyfy6BuS-spNnG-XesRkKk_3DrvHAK4ry2BiRwF3l9DgsnWBASWhkjnFAp_siJlROXRseJVC8NGp6WWMjzjg1L1RhbkFd-V9mOUai-_xCpmib72BLS10u8il2DwfkyNEecqZRFAlzM7moVy-Pw&bpkio_sessionid=10c3d34b212-9806b3e6-fd5e-4598-8ba7-8b1e5ec1ea01&category=all
 
 
+#EXTINF:-1 tvg-id="8tv" group-title="UnifiTV", 8TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0%20(Windows%2010)%20Firefox/130.0&Origin=https://cdpn.io&Referer=https://cdpn.io
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(8TV)/master.mpd
+
 
 
 
