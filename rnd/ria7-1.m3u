@@ -1,0 +1,115 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/ria.png" ,119 Ria C
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
+#https://get.perfecttv.net/vod_jwt.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=riachd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIwNDQzMDgsImlzcyI6IlZSIiwiZXhwIjoxNzUyMTAwMjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMmQ5YmEyYTgtNTY5Ni00MjE4LTg1NDgtZDc3OGRjMzNmMDliIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.TozvE-Z4oIJMqpE4EcZvtKn56xzn5Ic_orhW95Du3t4
+https://load.perfecttv.net/rwt.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=riahd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" ,119 Ria C FHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
+#https://get.perfecttv.net/1080.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=riafhd|authorization=Bearer 
+https://load.perfecttv.net/rwt.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=riafhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" group-title="SPORTS" ch-number="815" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBc7NVB1EqxbCTjJwHFAJGNUCgk2R5yxvxrxrUxxORBmrW26nZuoJRijZVM5T06Mmv2wUGSslk3DGLZDQt49793E2NOqQYscl68nVPSGCYOeFQcZqq02BVdmXXPd1WUNtvmMj5-VysmNQ7GALa57joD9rV8-jNIW8YT57GqzmIzzJ6lHSQ089fO0XCPDQB",Astro Badminton A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
+https://load.perfecttv.net/mpd/badminton/manifest.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonhd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5262cbebead64f42aa8317e3cb13106c:17fbade6a94f5271a6a7c56374bf6d8e
+#EXTINF:-1  tvg-id="TV2" ch-number="102" tvg-name="TV2 HD" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhWWy3ctPVC_yGxkTbyf_ZghdnT8s5V4ELlw2SK2aSdeCTR2BUo7RXFpp7Uawq7TYt6Gr8Hp8sh6UXYR7xHyjZQCIznWP3u-lpvDwnDg6CDRxOmFGLHQurgN2VYkDKbHD1SBuZMDMsMfWZ1O20aGlj2DlxrcA6SYgZFmWnXR-mJruN94jTH-ULXyiJ1mMhn", 102 TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd73177f7e40014751cb76167bee3c10:45b75b07b7cf3b0f52c8663c2cb51555
+#EXTINF:-1 tvg-id="100.astro" tvg-name="100 Heroes 2.0" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiUHsA_dXlubQe1VFfQPXz9vWWTNvkei8jkRLXFOr2DrdYAzN3WZuKfzBPbqOKXyAUW_nS5UqzwwATNj8qJnlYcz3BOIh0rx5RpnNe8tNgPL_4V5-pw-4bs31kFjLfuyJbR8EnF0fjozLR40NqK7znmRX0-OhBbDe-c1jlLqKfErm3UBGDkULqPQEgDSoAM" ch-number="100" group-title=" MALAYSIA",100 Heroes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_ott.mpd
+#https://spirits-sought-commonwealth-engaging.trycloudflare.com/tv/miz2bVFAmBJbOgygEfFYVLnGpKnObNcMdiiSZlkUA-wwMvjA-07ITI_f0CXfvabm_ZO1MuPpRKcsr_9sOKouQ3pof5IQln17TnQIxkoG_jFsfDynz6nHdYpV5Guguevz/streamManifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
+#EXTINF:-1  tvg-id="149" ch-number="149" tvg-name="TV9" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh1PpusEIAUqg8Dhb9UPTRb3UKw3fUV2_sQf7Bs0Prtj0wTBKfxq7e1DjOAx7P1YAoExUgBBRNp63oSe3RO34CqO4R-3dXN4fG8JpCfW1xk0MZVQ4U2cGlMofqJwacVBQSrzwd2Ndv1_Y8H46QxgjXfUl5UQxxi0MXuG6OFuhsgcqav-xPK9xvgMRngl_4V",149 TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
+#EXTINF:-1  tvg-id="149" ch-number="149" tvg-name="TV9" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh1PpusEIAUqg8Dhb9UPTRb3UKw3fUV2_sQf7Bs0Prtj0wTBKfxq7e1DjOAx7P1YAoExUgBBRNp63oSe3RO34CqO4R-3dXN4fG8JpCfW1xk0MZVQ4U2cGlMofqJwacVBQSrzwd2Ndv1_Y8H46QxgjXfUl5UQxxi0MXuG6OFuhsgcqav-xPK9xvgMRngl_4V",149 TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
+#https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+
+
+#EXTINF:-1  tvg-id="146" ch-number="146" tvg-name="TV Okey" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg3Y0nf5qrIDjgEsVrliLbhEdOOim_Gx4TvTVGtRz54MCiEnbMC_PQNGszNBnI1WIt_liz9e1bZWSijyHhZuJ3Bc6HQcgDh5TtfKfOK33usk2ONSyspnbHgBdP1WWR5ad3uV9YreVJ0wnGeJOCLDj_h7tAlbu32B08eLNLbrMps9CxInTByKggG5oMwq-ZX", 146 Okey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab
+#EXTINF:-1  tvg-id="118" ch-number="118" tvg-name="Inspirasi"  group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj56YP4chohvAvt-3sGcG3arDzz6ltmice7jB94IeOVz0lpmR7XorW2-i9bmOTa6pA5vFk-zB58Vd64aNmPn28Ry9nJ7JZnwmAfP_U4GOVTr9vsfmi9fsM_wAGYme1X1D31xgmK-1PApiVTMoqHFWtV-xkxR6wbVMM3eig3mnRW889Kb-Zp2SibfoBDIdiN", Inspirasi
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
+#EXTINF:-1  group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiQct6oHhgKbNPOnYJyVAbwADxD-T5aSEx2GysiNsfq_zKKxqkp5YOIZID8EEG38cDHlm8ZVSR2sg0KFYR3nkawH8I3hiRRhFpatyXo4bq-sa_KsolcvgFIfw27SBN8ZjHkLZr3k_2f9CN5jwsGHJdMnWW-ooVLhSYtu1mQavXxf1k2MPMkq5wfi_K0onps", Salam HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
+
+
+#EXTINF:-1  tvg-id="114" ch-number="114" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiZeYcRWvRGA4uYMPNKYn6kxlKl-avdgSjzLqGnsw_rZiklji4JjzL4ViwHZe7OVfZhqPiUy9IiP1nenL1EC1eIZEjjEpUGaCgOjlaZ4S1mysRNTgBAByH_6iqvTa48h1Rwr-hp3NdGbo8iu4U6Iyl3D7e4MLz1t6rFPhjEWyBaPJDWBm8nc5bpYkPKA8Aa" group-title=" MALAYSIA",114 TV Alhijrah 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1113/default_ott.mpd
+
+#EXTINF:-1  tvg-id="122" ch-number="122" tvg-name="TVS" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxQH_-4lnOgNF6eVzxyhs-cw-5OtZkkIMOFMIVz_6rlrhHA_FhTolWMwdjn2RYHVgqTJ1J_yMch5P6xp7TMGQYBCer95QckrjoPHH8ETW3_94zLPHtTIsXRLd2qZJbC85BY2ak7S6Xy-_0pXpXGJ34fIc9FHMcr5eS3lWvocc_sPfRavL5oiYnbiwcRw7D",122 TVS Sarawak
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8829b8f4d91d2630f398c67ed94c2310:aed9dc02038725aadbd0c7bd1709240b
+#EXTINF:-1  tvg-id="AstroTutorTVSMK" tvg-name="Astro Tutor TV SMK" group-title=" MALAYSIA" group-logo="https://da.gd/ffliqmy" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_SPM.png",603 TUTOR TV SMK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhNteWqGnRRSKUVHlUfKxgqRM95GNMltzPk33P5iwKs19ETUEBmnmXSez6db4LXids8c-BX3wN4DE4Y4UOUJiIYCfgQ90YzXI3kWPFo-FiG9Q_boHZ1wFiQqVjqPGovr6TWPi0DGNEYwgv9L2M9KH-JeqTW5laZKhLG8BQ1a7qbKK9gbN-G1SyAn2LPs6lg" group-title=" MALAYSIA" group-logo="",Islam Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3084383b39c3452b81ee0535bd381dee:bf25afb0796a4a73f127f056c206800d
+#https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
