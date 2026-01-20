@@ -539,6 +539,33 @@ https://get.perfecttv.net/mutv.mpd
 
 MOVIES
 
+perfct tv
+#EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://get.perfecttv.net/logo/starmovies.png" group-title="MOVIES",152 Star Movies
+http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts?channel=starmovies
+#EXTINF:-1 tvg-id="" tvg-name="153 Star Movies Select" tvg-logo="https://get.perfecttv.net/logo/starmoviesselect.png" group-title="MOVIES",153 Star Movies Select
+http://216.132.70.171:8080/live/vip_5n79e3qb/z8cwUIl1/4602.ts?channel=starmovieselect
+
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="MOVIES" tvg-logo="https://get.perfecttv.net/logo/cinemax.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",145 CINEMAX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=cinemax
+
+#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="404.astro" tvg-logo="https://get.perfecttv.net/logo/boo.png" ,140 BOO  
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+https://get.perfecttv.net/dash2.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=boo
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/mnplus.png" group-title="MOVIES",157 MX Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://get.perfecttv.net/dashVision.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=mnplus
+
+
+
 #EXTINF:-1  tvg-id="AXN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgrzNOAUV3LKqcFrWLfg7ABUNqVdBMlA8Ymi4P3HnuGoPjOEJUSpyXDVy9Sj4tfFmUeDQTsVCrJzz0e9P5KpsEpJ6umaUyGu2WVDNK_gs8cus4e_PJVmDtz2XD4ocl2e_8k2MCnjwcOxcF2uh-nwmTQeAttqk3ZG1a6xpvFwxM4GHorMbQRk8s5lvfI5KW2" tvg-name="AXN HD" group-title="MOVIES" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png",701 AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -547,12 +574,18 @@ MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
-#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEglriLtKT-tpB0QduxUeRYFPrSZrhAYOEPloNBwjiw-ivXTL6CL-zFDP9RKnYNmsLZ5LSlxWwKM6zekL1zxGtuW2DTbCobJhEp8qUE64sf-vhOXWNcxfPMWVr0YIssBN9lyIPAuL_46BpYWY2SXmMnldW7cJD9HD7ksQr7hEZMtKxymcJglnxAnLRrLb6me" group-title="MOVIES",Degup
+#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="120.unifi" ch-number="120" tvg-logo="https://get.perfecttv.net/logo/degup.png" group-logo="" ,139 Degup 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
+https://get.perfecttv.net/degup/degup.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=degup
+
+#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEglriLtKT-tpB0QduxUeRYFPrSZrhAYOEPloNBwjiw-ivXTL6CL-zFDP9RKnYNmsLZ5LSlxWwKM6zekL1zxGtuW2DTbCobJhEp8qUE64sf-vhOXWNcxfPMWVr0YIssBN9lyIPAuL_46BpYWY2SXmMnldW7cJD9HD7ksQr7hEZMtKxymcJglnxAnLRrLb6me" group-title="Movies",Degup
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://service.samproject.my.id/unifi/DEGUP.mpd
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Degup
 https://linears-playbackmy.mobileads.uno/un5/uni5.mpd?id=Degup
 
@@ -690,10 +723,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBios
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #EXTINF:-1  group-logo="https://is.gd/dvboM8.png" group-title="MOVIES" tvg-id="ts210" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgooqadNDxQoO_-iouBbw_tMTAcVw58LQyit23uRAUKwDIw0vSuXn8SFmUlGXIUpVW5OFXMlbSgMdYFGHLwKL0IUogvKfc4ZtLFgEq-QFnh5L-ss8Xh9sT1jISD8XRyIHbTExCyQK7riACoW1kozuSodVajOMgmgEHzasdMD7vz6-5CKvOJnKyM9JU8tPYA" group-logo="" group-logo=" "  , MN+ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #EXTINF:-1  group-logo="https://is.gd/dvboM8.png" group-title="MOVIES" tvg-id="ts599" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhpA0EZRjuiRJ3d1S-yYxkwi9tcVIgAtLzepl5X2WSk_XsgwNbytqJtkEQxfVYVUzmATO5YSAlzmx9UQdkZyGK72wo8V2kuPDfa4jxkVT7KYWTt6hr_WXpOZ3UTUBqkSH_BdrnjLZjkLJEiBnbCaQGRz2XMeaBGn9Ni4ydBtfrzUrDb01hiv8uqop2Qv5eM" group-logo=""  , MNX 
