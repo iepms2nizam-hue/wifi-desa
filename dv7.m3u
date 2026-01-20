@@ -539,46 +539,55 @@ https://get.perfecttv.net/mutv.mpd
 
 MOVIES
 
+#EXTINF:-1  tvg-id="AXN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgrzNOAUV3LKqcFrWLfg7ABUNqVdBMlA8Ymi4P3HnuGoPjOEJUSpyXDVy9Sj4tfFmUeDQTsVCrJzz0e9P5KpsEpJ6umaUyGu2WVDNK_gs8cus4e_PJVmDtz2XD4ocl2e_8k2MCnjwcOxcF2uh-nwmTQeAttqk3ZG1a6xpvFwxM4GHorMbQRk8s5lvfI5KW2" tvg-name="AXN HD" group-title="MOVIES" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png",701 AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
-#EXTINF:-1  tvg-id="AXN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgrzNOAUV3LKqcFrWLfg7ABUNqVdBMlA8Ymi4P3HnuGoPjOEJUSpyXDVy9Sj4tfFmUeDQTsVCrJzz0e9P5KpsEpJ6umaUyGu2WVDNK_gs8cus4e_PJVmDtz2XD4ocl2e_8k2MCnjwcOxcF2uh-nwmTQeAttqk3ZG1a6xpvFwxM4GHorMbQRk8s5lvfI5KW2" tvg-name="AXN HD" group-title="MOVIES" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png",701 AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEglriLtKT-tpB0QduxUeRYFPrSZrhAYOEPloNBwjiw-ivXTL6CL-zFDP9RKnYNmsLZ5LSlxWwKM6zekL1zxGtuW2DTbCobJhEp8qUE64sf-vhOXWNcxfPMWVr0YIssBN9lyIPAuL_46BpYWY2SXmMnldW7cJD9HD7ksQr7hEZMtKxymcJglnxAnLRrLb6me" group-title="Movies",Degup
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Degup
 https://linears-playbackmy.mobileads.uno/un5/uni5.mpd?id=Degup
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4307def6a29bec082f8c93f1f98e5910:a4d49bda8cd29ba2888c732b4e7d9d63
 #EXTINF:-1 tvg-id="HITSNow" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgU-qRlmOoOHOe9f3akognmT1TxWZVPmI1PP7HRJRAY-J7qpbYZQDz8X1sv5CHcmMu9iqRkxVljkkxAMgUyQzwXhUuqmGuMwrJmu5I4YGSfwQ_YGwDz3y3QOY48FP_9kgtU-skY5CUOreU5TicDestBOXIHzn7uGFMRmbFRtLM-YvyWz4Favx95hlqeRU7z" group-title="MOVIES",HITS Now
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4307def6a29bec082f8c93f1f98e5910:a4d49bda8cd29ba2888c732b4e7d9d63
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 
+
 #EXTINF:-1  group-title="MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjXf_EW5OWcdI5P8GnrGmuMjjo4AxOUrP1pT2sleaMJr3oNGjKFwi7FJclF8N5t3P5vY1Grtarr3AwfUhqKcowOoOoNw6aEGgCDDADzi263zze6gZl5mUveCkOZNadMO7oYRe7dll6V6QAaUWq4m0xIZ0QFzZklTEhGL25gpO9ycGRxGu-dqlN6A-hOKQYt",Sony Max 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiOvXrNJk7a0DIMnHvZJ-ri4m1dB1eu0unQEl7NXXBhTEJvGoTGqPysKVAYz0B9ibL3lDUmPKcyFZll_gTg3sDcGsKuRGMA6xPt-TBwwcOmwEFgydcKmwkbKUB37Vck5Uo1XRNoYcA4RJ2986gIFgAdZCUf5ZA139idMrVaz3_4a9wZnz0mHZDkvnw0s8dk" group-title="MOVIES",Bollywood HD 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiOvXrNJk7a0DIMnHvZJ-ri4m1dB1eu0unQEl7NXXBhTEJvGoTGqPysKVAYz0B9ibL3lDUmPKcyFZll_gTg3sDcGsKuRGMA6xPt-TBwwcOmwEFgydcKmwkbKUB37Vck5Uo1XRNoYcA4RJ2986gIFgAdZCUf5ZA139idMrVaz3_4a9wZnz0mHZDkvnw0s8dk" group-title="MOVIES",Bollywood HD 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
+
+
+#EXTINF:-1  tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="MOVIES" group-logo="https://da.gd/ffliqfilm" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_CALESTIAL.png",309 CELESTIAL MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
-#EXTINF:-1  tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="MOVIES" group-logo="https://da.gd/ffliqfilm" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_CALESTIAL.png",309 CELESTIAL MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
@@ -590,12 +599,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
-
+#EXTINF:-1  tvg-id="HBO" tvg-name="HBO HD" group-title="MOVIES" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBO.png",411 HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
-#EXTINF:-1  tvg-id="HBO" tvg-name="HBO HD" group-title="MOVIES" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBO.png",411 HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2012K11AC Build/SKQ1.211006.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
@@ -633,72 +641,94 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #EXTINF:-1  tvg-id="416.astro" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqklNPDp_xJs4wG60NlFhfXqxy6aUNVbQ18OPcDrh16p-oWUde85X_iUXlHDyeyAhXboYeeB1f8APU6QTkenWQBTI_sFarOAozfPCts9m5H8pkMUjiS3pT2Zo5UgLQuZ5d9qVZLIhz0SfZLOUkGeJtPmQgWd0snzMHNvDTPv8mdDkoBgjXY9mM6i_dchQO" group-title="MOVIES",tvN MOVIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 
 #EXTINF:-1  tvg-id="Zee Cinema" ch-number="251" tvg-name="Zee Cinema" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhJrUZHTKQDWW5mrpZzFcr8MhIWBvs3cff3QjZx9slS0Lm3jLjgdfv13z4XFhv5IOerBfViLbKw8FfR03qCIXuo1DZRUHw29GhRtS6sI3nJo8SBNcx6iPpx-b27oMh6edEFLhhj1BmQl_JhVQneyAagVYdr3LH1zdZ07-4pKkkSYEXLYOytqCE0-kxUJQC6" group-title="MOVIES",251 Zee Cinema
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1  tvg-id="GALAXY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgu2xR31lLL_7GfEAhYeHoZQgOeyTgCU8VQnwhrmVkply7aqoOq01vlW-BuJWF60bDHYLUkMtudUGoHiiS8z51qlnbgraAPWytcxgkUFQNKDiRxOlK2tfGbNvtUbSQpvUz_oV0Bba7yr7s0iOf35fHBurt0PqKkBqOdOgMd2YMydbhQu-e-GyxYBLUYGr6Z" group-title="MOVIES",Galaxy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1  tvg-id="GALAXY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgu2xR31lLL_7GfEAhYeHoZQgOeyTgCU8VQnwhrmVkply7aqoOq01vlW-BuJWF60bDHYLUkMtudUGoHiiS8z51qlnbgraAPWytcxgkUFQNKDiRxOlK2tfGbNvtUbSQpvUz_oV0Bba7yr7s0iOf35fHBurt0PqKkBqOdOgMd2YMydbhQu-e-GyxYBLUYGr6Z" group-title="MOVIES",Galaxy
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #https://atemeshield1-voe.sysln.id/live/eds/GalaxyHD/mpd/GalaxyHD.mpd
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="Local.Programming.Dummy.us" ch-number="405" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjcRKZvP4oysDfGOohfyvH5FCYwhmkv00XGRhTphvROdtxR2XphMz9-88r804IQZgffSnWunluKsPLQZywI58Ag5P5qLPYoE68SengkZJBr55V5-bs6MnkUd189xW30jsR0ielcqRIsHumCFmS-W7il-QlbQIA3O26wjK9pY_56bti0g35oYS2Zee7Sw007", CINEMA WORLD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a 
 #https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 #EXTINF:-1  group-title="MOVIES" tvg-id="bioskopindonesia.id" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiDYKhx6md96mojYuxzsG2Rp4VprqUPyry6n9m6UYkvpNuayPAbxpyFRwFDdPVHIee4halvqe35CygpiIPOQxfoQBVj5W7fnzCcTglV0oseDt9ApIhehbzuGZ8Csw3NlQ97k-kzOkhahW2sFQ-6EYaeHt3tlhTakjIIEHN9gPZLOeSLTwM1r17tpTtHhq2f",Bioskop Indonesia 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
 
 #EXTINF:-1  group-title="MOVIES" tvg-id="flik.id" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj2mkz1InTrmkPv7LK3uCNDvA6RaV1w35Xq5nSk1ZK-417WInRH2A3w5DXdY1rmnLnkJdxk2jU8VuWsI1paqiMq-g7scS1qQFh9LSTec9EAe4kIVAFY66wddpTNXIUZwRbPOXb9u-ZB_-E8zM75GFpsukEvirNypQ5SraOB1EbAjM8bX345-Lcrf3VaaaFh",Flik
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #EXTINF:-1  group-logo="https://is.gd/dvboM8.png" group-title="MOVIES" tvg-id="ts210" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgooqadNDxQoO_-iouBbw_tMTAcVw58LQyit23uRAUKwDIw0vSuXn8SFmUlGXIUpVW5OFXMlbSgMdYFGHLwKL0IUogvKfc4ZtLFgEq-QFnh5L-ss8Xh9sT1jISD8XRyIHbTExCyQK7riACoW1kozuSodVajOMgmgEHzasdMD7vz6-5CKvOJnKyM9JU8tPYA" group-logo="" group-logo=" "  , MN+ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e 
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #EXTINF:-1  group-logo="https://is.gd/dvboM8.png" group-title="MOVIES" tvg-id="ts599" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhpA0EZRjuiRJ3d1S-yYxkwi9tcVIgAtLzepl5X2WSk_XsgwNbytqJtkEQxfVYVUzmATO5YSAlzmx9UQdkZyGK72wo8V2kuPDfa4jxkVT7KYWTt6hr_WXpOZ3UTUBqkSH_BdrnjLZjkLJEiBnbCaQGRz2XMeaBGn9Ni4ydBtfrzUrDb01hiv8uqop2Qv5eM" group-logo=""  , MNX 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 #EXTINF:-1  group-logo="https://is.gd/dvboM8.png" group-title="MOVIES" tvg-id="ts173" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiZEtX6gcrX4dA9aLigsC3J3eDcvq6-G7-CQPhJzCGW6aX8EPzMzIhpJM3fkd9n26a5knttbA3CNI2xKL27PNXNOmGLkcFnlsPs9ZF5Bz1PNWQWhiS5ZJvVg_Iuw1VFHev5vg3bAaDZ2cRQvnbZzUhayfCNe20TsMgjVPKz_rg4wStTLMudkqrmm1XShE5z" group-logo=""  , Movies Now
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1  group-logo="https://is.gd/dvboM8.png" group-title="MOVIES" tvg-id="ts429" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgr_Q_lWr20-CDUg8oOZI1cRToCU8fguhzOP3WAJlbjSvimOquAHsk2oXiOPc-kkFThtfBESOlANwFTEHsLwN2w4mN5od1fgT5Sml0hlDOTMMjeVNwrschErQnTjTY9doNhVHnpPReC_kffF40EUMprhT0rm6KNHAEnyGc1Jg4yPtV6dmqwHIBMg3APwYmk" group-logo=""  , Remedy Now 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
-#https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="KIX.id" group-title="MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi2Z4szyD7-K222o4fBLeKut0q7KjohrecDQx8qHX1TdgRrHmfB7A-vGHRarvDwmtxMM0Q9EkrHaOiKoiYiCGiiWQ0pVcV2ACaR7f9FT9udmiPyVeyxSArLCkdJoMeo0DV8sF0HJCNyYVY4k6QaBZSfOfdjL3UwKBijgrqHq7xwp2gONLd9txoSDow1dlt1",KIX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mediampd/KIXHD.mpd
 
 #EXTINF:-1  group-title="MOVIES" tvg-name="ROCK Action" tvg-id="474" ch-number="474" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhyTH30DycFtN9wfNsERC3HIJaDUjdlZTNhBsYIK1EJN71C-9V-bF0y6k_O8w4GntKuySzmRvl9num6zuFpd6dac-KyN8Nt70MWPdFVXrAafGatrdZESXIo27-EfUWHGXg_UapKR0eJtN5OYhKLsrkBuKJZd4fCfNiCaQTsUjpvu6J3aolf1D66pUK7S1mo",474 ROCK Action
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/RockAction/index.mpd
 
@@ -709,8 +739,11 @@ https://slive.mana2.my/RockAction/index.mpd
 #http://154.6.144.233/live/546B4QU/ZTDBRWD/34717.ts?token=SxAKVEBaQ14XBgVXAVEBDQcGVwQFUlNQBQkJBg9VUwdVU1UCA1NVVAQTHBNGEEFcBQhpWAASCFEBBgBTFUQTRVVAPVxXEFtGAQQEAAdVBhtIR0JYCVUQWAQGBFYMXlIABwdOF0NbBUYPEwUDAV0GDUZJFFQcRFcQW1BdO10DEF9TV0APXUcNCBkTX19qAFZUBQtSE14SAkAZE1gXSURcWEVeDhkRUAgQR1BEVBdeEQ1SXQcTSBJRDUBfRRZARFwUY3VAGRFXGRBQX0NYWgoRA0YRRRNIElsRakNUF00UA1ddVxAXCRBRRhkTXVBNO1BWCgtTUhBZXQxGEwtGCERKFF1dDFxHXRM7RVhUEw9GBgxSXQQCRk0=
 
 #EXTINF:-1 tvg-id="WarnerTV" ch-number="712" tvg-name="Warner TV HD" group-title="MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj1Sl8OvB58PMYhay33fXYrPIcAYSITrSii_xTJ4Fws5buwNEQ2MjfYTPZK7TnIHuWAu_VM4IBmoo41FbNVbVqV2CR5xoR3ou0R_08DN6cfizZYQYyBLpmQ5RZFLqU87QVdeEiFOLbJJM4Wyzf-07fjk4X4XLmeUtlUrX1WIgnzHPhwxMqxFZuGPsRgSa6P",712 Warner TV 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 
