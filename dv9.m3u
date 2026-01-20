@@ -547,8 +547,10 @@ MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
-#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEglriLtKT-tpB0QduxUeRYFPrSZrhAYOEPloNBwjiw-ivXTL6CL-zFDP9RKnYNmsLZ5LSlxWwKM6zekL1zxGtuW2DTbCobJhEp8qUE64sf-vhOXWNcxfPMWVr0YIssBN9lyIPAuL_46BpYWY2SXmMnldW7cJD9HD7ksQr7hEZMtKxymcJglnxAnLRrLb6me" group-title="Movies",Degup
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEglriLtKT-tpB0QduxUeRYFPrSZrhAYOEPloNBwjiw-ivXTL6CL-zFDP9RKnYNmsLZ5LSlxWwKM6zekL1zxGtuW2DTbCobJhEp8qUE64sf-vhOXWNcxfPMWVr0YIssBN9lyIPAuL_46BpYWY2SXmMnldW7cJD9HD7ksQr7hEZMtKxymcJglnxAnLRrLb6me" group-title="MOVIES",Degup
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Degup
