@@ -190,10 +190,12 @@ malaysia
 #EXTINF:-1  tvg-id="113" ch-number="113" tvg-name="TV6" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjdjzRzlDflIJYqDaOeE04eEPhOnRuWt7AyYLqhvx8nkvmj8u9Tex3n07m5mwAVHsUaBQbd_bC81kV8InucDfsLnMApJccY7QrTtbnzh0kW0gfA7SPS6k3flTAdWyPFwVZzA3YMw5MbnmVqqIbtb6GcePPaw3H86t_-XgQ0efGhjRqduInpzMV4eucUF32C", 113 TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4} 
-#EXTINF:-1  tvg-id="147.astro" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEguRa7EV5fQQ4-zu7fkvak22thtNXzupKKVSmw3Iv1kctqOz1p089U59q0jLF_p-o8lV85h6SC_7KOlpNyCnLM_7_oXJ_eGdFQRWzjQo0rEUI1azQ6NiwvixvEYXODto6jDuiZKuykEAriHrgAp6KdWhvxe1TPgIKgLKGpKnt8sBIGSY9Ut8FbYTTvhV2rO" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" group-title=" MALAYSIA",147 Didik TV 
-https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTINF:-1  tvg-id="147.astro" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEguRa7EV5fQQ4-zu7fkvak22thtNXzupKKVSmw3Iv1kctqOz1p089U59q0jLF_p-o8lV85h6SC_7KOlpNyCnLM_7_oXJ_eGdFQRWzjQo0rEUI1azQ6NiwvixvEYXODto6jDuiZKuykEAriHrgAp6KdWhvxe1TPgIKgLKGpKnt8sBIGSY9Ut8FbYTTvhV2rO" group-logo="https://da.gd/starlogo" group-title=" MALAYSIA",147 Didik TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/oQ8Ekv; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
+
 
 #EXTINF:-1  tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgJy6ir14_0T_-xJn7XcMuQ7dBgzh_ahIrN68GFseGmDmn0SNUbvugW_c1v7ThZbI3q3qoeCH6dpEC2fiFb5caP7EJBwbOcn2aYGPY7VPEWtlkJPq49pzy77txAEz8Rmw7nk6vE3NxOvowxWCrUgBFRX87qZxDM1TIeQOYZdW39fNKw3tLHMmgX-6VVPHkb", 101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -253,36 +255,45 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 #https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 
-#EXTINF:-1  tvg-id="146" ch-number="146" tvg-name="TV Okey" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg3Y0nf5qrIDjgEsVrliLbhEdOOim_Gx4TvTVGtRz54MCiEnbMC_PQNGszNBnI1WIt_liz9e1bZWSijyHhZuJ3Bc6HQcgDh5TtfKfOK33usk2ONSyspnbHgBdP1WWR5ad3uV9YreVJ0wnGeJOCLDj_h7tAlbu32B08eLNLbrMps9CxInTByKggG5oMwq-ZX", 146 Okey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:-1  tvg-id="146" ch-number="146" tvg-name="TV Okey" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg3Y0nf5qrIDjgEsVrliLbhEdOOim_Gx4TvTVGtRz54MCiEnbMC_PQNGszNBnI1WIt_liz9e1bZWSijyHhZuJ3Bc6HQcgDh5TtfKfOK33usk2ONSyspnbHgBdP1WWR5ad3uV9YreVJ0wnGeJOCLDj_h7tAlbu32B08eLNLbrMps9CxInTByKggG5oMwq-ZX", TV Okey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab
+
 #EXTINF:-1  tvg-id="118" ch-number="118" tvg-name="Inspirasi"  group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj56YP4chohvAvt-3sGcG3arDzz6ltmice7jB94IeOVz0lpmR7XorW2-i9bmOTa6pA5vFk-zB58Vd64aNmPn28Ry9nJ7JZnwmAfP_U4GOVTr9vsfmi9fsM_wAGYme1X1D31xgmK-1PApiVTMoqHFWtV-xkxR6wbVMM3eig3mnRW889Kb-Zp2SibfoBDIdiN", Inspirasi
-https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://service.samproject.my.id/unifi/Inspirasi.mpd
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Inspirasi
 
 #EXTINF:-1  tvg-id="121" tvg-name="SIAR" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhEGNIA9n_-uGlzbEBpUbV9h0JuRgrN1h2A99OuZHH7Zc_lvMOBF7aqqVaQbcUoFouDROhedUdwmmHeNkzeAdgQoS9CYvrmTxdzGRVY-ybCqfO4OSz7rGMMQMBHsACPVMna8Fq79vU7iFsHijXVXXqxdXbGXVAQDJGju2LlFU7BGx_vgjh8YbE4cadhMCRH", Siar 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://service.samproject.my.id/unifi/SIAR.mpd
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Siar
+
 
 #EXTINF:-1  tvg-id="128.unifi" ch-number="128" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj51YI995OZZriA0IskwfA4ikHVOC7ado6fGOhgs_s_3zE_wIN8w3tPQEJ_gpOavEfLF2hjX7GEc5jDjIN25fF6_vT-1zy9dHlO6dao4NgCORZaouAB1fQKusBebMELKz6deRDJvyu2_tnCrJS9YrfOhep0z5YlhY4PD5ebwiwJWy7dbsrB86lP0McuOCk8"  group-title=" MALAYSIA",Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://service.samproject.my.id/unifi/DuniaSin.mpd
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=DuniaSin
 https://linears-playbackmy.mobileads.uno/un5/uni5.mpd?id=DuniaSin
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
 #EXTINF:-1  group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiQct6oHhgKbNPOnYJyVAbwADxD-T5aSEx2GysiNsfq_zKKxqkp5YOIZID8EEG38cDHlm8ZVSR2sg0KFYR3nkawH8I3hiRRhFpatyXo4bq-sa_KsolcvgFIfw27SBN8ZjHkLZr3k_2f9CN5jwsGHJdMnWW-ooVLhSYtu1mQavXxf1k2MPMkq5wfi_K0onps", Salam HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://service.samproject.my.id/unifi/Salam.mpd
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Salam
+https://linears-playbackmy.mobileads.uno/un5/uni5.mpd?id=Salam
 
 
 #EXTINF:-1  tvg-id="114" ch-number="114" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiZeYcRWvRGA4uYMPNKYn6kxlKl-avdgSjzLqGnsw_rZiklji4JjzL4ViwHZe7OVfZhqPiUy9IiP1nenL1EC1eIZEjjEpUGaCgOjlaZ4S1mysRNTgBAByH_6iqvTa48h1Rwr-hp3NdGbo8iu4U6Iyl3D7e4MLz1t6rFPhjEWyBaPJDWBm8nc5bpYkPKA8Aa" group-title=" MALAYSIA",114 TV Alhijrah 
@@ -539,10 +550,9 @@ https://get.perfecttv.net/mutv.mpd
 
 MOVIES
 
-
+perfct tv
 #EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://get.perfecttv.net/logo/starmovies.png" group-title="MOVIES",152 Star Movies
 http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts?channel=starmovies
-
 #EXTINF:-1 tvg-id="" tvg-name="153 Star Movies Select" tvg-logo="https://get.perfecttv.net/logo/starmoviesselect.png" group-title="MOVIES",153 Star Movies Select
 http://216.132.70.171:8080/live/vip_5n79e3qb/z8cwUIl1/4602.ts?channel=starmovieselect
 
