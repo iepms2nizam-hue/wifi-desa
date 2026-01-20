@@ -548,9 +548,7 @@ MOVIES
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEglriLtKT-tpB0QduxUeRYFPrSZrhAYOEPloNBwjiw-ivXTL6CL-zFDP9RKnYNmsLZ5LSlxWwKM6zekL1zxGtuW2DTbCobJhEp8qUE64sf-vhOXWNcxfPMWVr0YIssBN9lyIPAuL_46BpYWY2SXmMnldW7cJD9HD7ksQr7hEZMtKxymcJglnxAnLRrLb6me" group-title="Movies",Degup
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Degup
@@ -624,13 +622,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 
-#EXTINF:-1  tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="MOVIES" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_Cinemax.png",412 CINEMAX
+#EXTINF:-1  tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="MOVIES" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_Cinemax.png",413 CINEMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=cinemax
 
 #EXTINF:-1  tvg-id="ShowcaseMovies" tvg-name="Showcase Movies" group-title="MOVIES" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhIQGfPGeHJm5ZJ48GgGQ9JORW9fC2lJkhVMYOz9MlRKnnsqtvST0wHYoyHuZKbVu3-HhrumULi2Q3q54Vh0kiVqiOeXL07L3hzNf5T2hn9Xl7TGb0BPBdRF0ml13v57qdDIdVLxepLN5mcgdGJcASM32e12X0Dvn7DI2UDT13-KicpPpwmNmV0_6-VvELz",413 SHOWCASE MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
