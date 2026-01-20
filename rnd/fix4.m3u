@@ -8,10 +8,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 #EXTINF:-1 tvg-id="HITSNow" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgU-qRlmOoOHOe9f3akognmT1TxWZVPmI1PP7HRJRAY-J7qpbYZQDz8X1sv5CHcmMu9iqRkxVljkkxAMgUyQzwXhUuqmGuMwrJmu5I4YGSfwQ_YGwDz3y3QOY48FP_9kgtU-skY5CUOreU5TicDestBOXIHzn7uGFMRmbFRtLM-YvyWz4Favx95hlqeRU7z" group-title=" MOVIES",HITS Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4307def6a29bec082f8c93f1f98e5910:a4d49bda8cd29ba2888c732b4e7d9d63
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/dash2.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=hitsnow
-
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd?ck=ZWZkYjJhOGQzOTE1MWNjMzlmNGI1MWQ3NjJjZjljMTA6MTNjYzUzNWFkNGE3MzIwMTE0Nzg2M2NhYzM4NmNkZDM%3D&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE1OyAyMzEyOVJBNUZMIEJ1aWxkL0FRM0EuMjQwODI5LjAwMzsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS8xMzQuMC42OTk4LjM5IE1vYmlsZSBTYWZhcmkvNTM3LjM2In0%3D&image=aHR0cHM6Ly93cy5rYXBhbGxheWFyLmNjLy9pbWFnZS8vTG9nby8vRU5ULy9OZXcvL0VfQ2luZW1heC5wbmc%3D&title=412+CINEMAX
 
 
 
