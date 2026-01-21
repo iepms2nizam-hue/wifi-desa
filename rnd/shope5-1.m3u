@@ -12,7 +12,6 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Inspirasi)/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SIAR)/manifest.mpd
 
@@ -26,5 +25,4 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DuniaSin)/m
 #EXTINF:-1  tvg-id="128.unifi" ch-number="128" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj51YI995OZZriA0IskwfA4ikHVOC7ado6fGOhgs_s_3zE_wIN8w3tPQEJ_gpOavEfLF2hjX7GEc5jDjIN25fF6_vT-1zy9dHlO6dao4NgCORZaouAB1fQKusBebMELKz6deRDJvyu2_tnCrJS9YrfOhep0z5YlhY4PD5ebwiwJWy7dbsrB86lP0McuOCk8"  group-title=" MALAYSIA",Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DuniaSin)/manifest.mpd
