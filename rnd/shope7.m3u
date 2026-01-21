@@ -1,0 +1,10 @@
+#EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440"
+
+
+#EXTINF:-1  tvg-id="121" tvg-name="SIAR" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhEGNIA9n_-uGlzbEBpUbV9h0JuRgrN1h2A99OuZHH7Zc_lvMOBF7aqqVaQbcUoFouDROhedUdwmmHeNkzeAdgQoS9CYvrmTxdzGRVY-ybCqfO4OSz7rGMMQMBHsACPVMna8Fq79vU7iFsHijXVXXqxdXbGXVAQDJGju2LlFU7BGx_vgjh8YbE4cadhMCRH", Siar 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://service.samproject.my.id/unifi/SIAR.mpd
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Siar
+
