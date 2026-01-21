@@ -6,3 +6,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 https://rnd-unifi.mytv2desa.workers.dev/unifi/Inspirasi.mpd
+
+
+#EXTINF:-1 tvg-name="Astro Awani", Astro Awani
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"G8S9Z5Q9rqHhQq9x4xcnrw","kid":"lL-qUc48Ss-4qNWnIpMWtg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+https://rnd-unifi.mytv2desa.workers.dev/unifi/Inspirasi.mpd
