@@ -6,3 +6,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SIAR)/manifest.mpd
+
+
+#EXTM3U url-tvg="https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SIAR)/manifest.mpd?ck=NTQ4OWY1OGM2NGFkNDBkYmE0NzFjOGIxYzI2OTNlMmE6MjRhY2Q0OWZhOGFhNmE1NTMyZGQwNDViYWIxZjUzZTQ%3D&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly9wbGF5dHYudW5pZmkuY29tLm15LyIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQzLjAuMC4wIFNhZmFyaS81MzcuMzYifQ%3D%3D&image=aHR0cHM6Ly9saW5lYXItcG9zdGVyLmFzdHJvLmNvbS5teS9wcm9kL2xvZ28vQXN0cm9fQVdBTkkucG5n&title=Astro+Awani"
