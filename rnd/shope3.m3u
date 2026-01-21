@@ -4,4 +4,5 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SIAR)/SIAR.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SIAR)/manifest.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SIAR)/index.mpd
