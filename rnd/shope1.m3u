@@ -1,5 +1,16 @@
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440"
-
+#EXTINF:-1 group-logo="https://da.gd/starlogo" tvg-logo="https://da.gd/starlogo" group-title="Account Info", Username: 728281
+http://yourdomain.com/info.ts
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Expiry Date: 2073-01-06 23:59:00
+http://yourdomain.com/info.ts
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Days Left: 17152
+http://yourdomain.com/info.ts
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Last Reload: 2026-01-21 04:22:55
+http://yourdomain.com/info.ts
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", Devices: 507/1000
+http://yourdomain.com/info.ts
+#EXTINF:-1 tvg-logo="https://da.gd/starlogo" group-title="Account Info", IP: 2a06:98c0:3600::103
+http://yourdomain.com/info.ts
 
 #EXTINF:-1 tvg-id="Awani" tvg-name="Astro Awani" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AWANI.png" group-title="Malaysia",Unifi SIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
