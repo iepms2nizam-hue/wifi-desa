@@ -6,6 +6,8 @@
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Inspirasi)/manifest.mpd
 
+
+#EXTINF:-1  tvg-id="121" tvg-name="SIAR" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhEGNIA9n_-uGlzbEBpUbV9h0JuRgrN1h2A99OuZHH7Zc_lvMOBF7aqqVaQbcUoFouDROhedUdwmmHeNkzeAdgQoS9CYvrmTxdzGRVY-ybCqfO4OSz7rGMMQMBHsACPVMna8Fq79vU7iFsHijXVXXqxdXbGXVAQDJGju2LlFU7BGx_vgjh8YbE4cadhMCRH", Siar 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
