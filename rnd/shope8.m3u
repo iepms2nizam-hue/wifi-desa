@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440"
 
+
+#EXTINF:-1 tvg-id="Awani" tvg-name="Astro Awani" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AWANI.png" group-title="Malaysia",Astro Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
