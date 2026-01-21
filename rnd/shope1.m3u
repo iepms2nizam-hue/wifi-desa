@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440"
 
-
+#EXTINF:-1  tvg-id="118" ch-number="118" tvg-name="Inspirasi"  group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj56YP4chohvAvt-3sGcG3arDzz6ltmice7jB94IeOVz0lpmR7XorW2-i9bmOTa6pA5vFk-zB58Vd64aNmPn28Ry9nJ7JZnwmAfP_U4GOVTr9vsfmi9fsM_wAGYme1X1D31xgmK-1PApiVTMoqHFWtV-xkxR6wbVMM3eig3mnRW889Kb-Zp2SibfoBDIdiN", Inspirasi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
