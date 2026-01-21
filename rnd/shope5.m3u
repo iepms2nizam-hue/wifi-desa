@@ -27,6 +27,4 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DuniaSin)/m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://service.samproject.my.id/unifi/DuniaSin.mpd
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=DuniaSin
-https://linears-playbackmy.mobileads.uno/un5/uni5.mpd?id=DuniaSin
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DuniaSin)/manifest.mpd
