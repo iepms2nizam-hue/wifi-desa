@@ -21,7 +21,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SIAR)/manif
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
-https://rnd-unifi.mytv2desa.workers.dev/unifi/Inspirasi.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DuniaSin)/manifest.mpd
 
 #EXTINF:-1  tvg-id="128.unifi" ch-number="128" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj51YI995OZZriA0IskwfA4ikHVOC7ado6fGOhgs_s_3zE_wIN8w3tPQEJ_gpOavEfLF2hjX7GEc5jDjIN25fF6_vT-1zy9dHlO6dao4NgCORZaouAB1fQKusBebMELKz6deRDJvyu2_tnCrJS9YrfOhep0z5YlhY4PD5ebwiwJWy7dbsrB86lP0McuOCk8"  group-title=" MALAYSIA",Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
